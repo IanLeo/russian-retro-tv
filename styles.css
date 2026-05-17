@@ -79,16 +79,19 @@ a {
   width: 100%;
   height: 100%;
   border: 0;
+  background: #050604;
   opacity: 0;
   transition: opacity 260ms ease;
 }
 
-.tube.is-on iframe {
+.tube.is-on.is-loaded iframe {
   opacity: 1;
 }
 
 .scanlines,
 .static-layer,
+.video-poster,
+.video-status,
 .offscreen {
   position: absolute;
   inset: 0;
@@ -108,7 +111,7 @@ a {
 }
 
 .static-layer {
-  z-index: 2;
+  z-index: 4;
   pointer-events: none;
   opacity: 0.16;
   background:
@@ -117,8 +120,46 @@ a {
   filter: contrast(1.8);
 }
 
+.video-poster {
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0;
+  background:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.45)),
+    var(--poster, radial-gradient(circle at center, #142017, #050604));
+  background-position: center;
+  background-size: cover;
+  filter: saturate(0.7) contrast(1.08);
+  transition: opacity 180ms ease;
+}
+
+.tube.is-on .video-poster {
+  opacity: 1;
+}
+
+.tube.is-on.is-loaded .video-poster {
+  opacity: 0;
+}
+
+.video-status {
+  z-index: 5;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  color: var(--green);
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  text-shadow: 0 0 14px rgba(108, 255, 146, 0.5);
+  opacity: 0;
+  transition: opacity 160ms ease;
+}
+
+.tube.is-on:not(.is-loaded) .video-status {
+  opacity: 1;
+}
+
 .offscreen {
-  z-index: 4;
+  z-index: 6;
   display: grid;
   place-items: center;
   background:

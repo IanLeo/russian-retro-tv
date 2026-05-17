@@ -23,6 +23,7 @@ const state = {
   selectedYear: "all",
   selectedCategory: "all",
   isOn: false,
+  loadToken: 0,
   shuffle: false,
 };
 
@@ -38,6 +39,8 @@ const el = {
   meta: document.querySelector("#meta"),
   channel: document.querySelector("#channelLabel"),
   source: document.querySelector("#sourceLink"),
+  poster: document.querySelector("#videoPoster"),
+  status: document.querySelector("#videoStatus"),
   years: document.querySelector("#yearStrip"),
   filters: document.querySelector("#filters"),
 };
@@ -53,6 +56,12 @@ async function init() {
 }
 
 function bindControls() {
+  el.player.addEventListener("load", () => {
+    if (!state.isOn) return;
+    window.setTimeout(() => {
+      if (state.isOn) el.tube.classList.add("is-loaded");
+    }, 450);
+  });
   el.power.addEventListener("click", togglePower);
   el.prev.addEventListener("click", () => changeChannel(-1));
   el.next.addEventListener("click", () => changeChannel(1));
@@ -156,15 +165,18 @@ function toggleFullscreen() {
 }
 
 function render() {
+  el.tube.classList.toggle("is-on", state.isOn);
   if (!state.filtered.length) {
     el.title.textContent = "Нет роликов под фильтр";
     el.meta.textContent = "Смените год или категорию";
     el.channel.textContent = "---";
     el.player.removeAttribute("src");
+    el.tube.classList.remove("is-loaded");
     return;
   }
 
   const item = state.filtered[state.index];
+  const youtubeUrl = `https://www.youtube.com/watch?v=${item.youtubeVideoId}`;
   el.title.textContent = state.isOn ? item.title : "Нажмите POWER";
   el.meta.textContent = state.isOn
     ? `${item.year} · ${item.channel || "канал неизвестен"} · ${
@@ -172,11 +184,28 @@ function render() {
       }`
     : "Российское ретро-ТВ";
   el.channel.textContent = state.isOn ? String(item.channel || "TV") : "---";
-  el.source.href = item.sourceUrl || `https://www.youtube.com/watch?v=${item.youtubeVideoId}`;
+  el.source.href = youtubeUrl;
+  el.source.title = item.sourceUrl ? `Источник: ${item.sourceUrl}` : "Открыть на YouTube";
+  el.poster.style.setProperty(
+    "--poster",
+    `url("https://i.ytimg.com/vi/${item.youtubeVideoId}/hqdefault.jpg")`,
+  );
 
   if (state.isOn) {
-    el.player.src = `https://www.youtube.com/embed/${item.youtubeVideoId}?autoplay=1&rel=0&modestbranding=1&playsinline=1`;
+    state.loadToken += 1;
+    const token = state.loadToken;
+    el.status.textContent = "Настройка канала...";
+    el.tube.classList.remove("is-loaded");
+    el.player.src = `https://www.youtube.com/embed/${item.youtubeVideoId}?autoplay=1&rel=0&modestbranding=1&playsinline=1&enablejsapi=1`;
+    window.setTimeout(() => {
+      if (state.isOn && token === state.loadToken && !el.tube.classList.contains("is-loaded")) {
+        el.status.textContent = "Если видео не появилось, откройте SRC";
+      }
+    }, 5000);
   } else {
+    state.loadToken += 1;
+    el.tube.classList.remove("is-loaded");
+    el.status.textContent = "Настройка канала...";
     el.player.removeAttribute("src");
   }
 }
