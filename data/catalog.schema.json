@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Russian Retro TV Catalog Entry",
+  "type": "object",
+  "required": ["id", "source", "title", "year", "category", "status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable internal ID, not necessarily a source ID."
+    },
+    "source": {
+      "type": "string",
+      "enum": ["youtube", "telegram", "vk", "archive", "manual"]
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "youtubeVideoId": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{11}$"
+    },
+    "telegramPostUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "title": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1990,
+      "maximum": 2009
+    },
+    "airDate": {
+      "type": "string",
+      "description": "Original air date when known, ISO date preferred."
+    },
+    "channel": {
+      "type": "string",
+      "description": "TV channel or network: ОРТ, РТР, НТВ, ТВ-6, СТС, etc."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "ads",
+        "news",
+        "music",
+        "kids",
+        "cartoons",
+        "series",
+        "comedy",
+        "talk",
+        "gameshow",
+        "sports",
+        "idents",
+        "documentary",
+        "movies",
+        "regional",
+        "other"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "curatorNote": {
+      "type": "string"
+    },
+    "rightsRisk": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "unknown"],
+      "default": "unknown"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["candidate", "approved", "rejected", "unavailable"]
+    },
+    "checks": {
+      "type": "object",
+      "properties": {
+        "embeddable": {
+          "type": "boolean"
+        },
+        "durationSeconds": {
+          "type": "integer"
+        },
+        "lastCheckedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "unavailableReason": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

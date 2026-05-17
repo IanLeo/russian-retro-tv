@@ -1,0 +1,46 @@
+[
+  {
+    "id": "orbita4-yeltsin-1996-snipers",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4?before=266",
+    "youtubeVideoId": "l_uhLXAN22k",
+    "title": "Ельцин и 38 снайперов. ОРТ, 13 января 1996",
+    "year": 1996,
+    "airDate": "1996-01-13",
+    "channel": "ОРТ",
+    "category": "news",
+    "tags": ["ОРТ", "Ельцин", "Первая чеченская", "новости"],
+    "curatorNote": "Найдено через публичный канал Орбита-4; требует проверки embeddable/status.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-namedni-limonov-2002",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4?before=266",
+    "youtubeVideoId": "KNbRVlVnNG8",
+    "title": "Лимонова доля, Намедни, НТВ, 15 сентября 2002",
+    "year": 2002,
+    "airDate": "2002-09-15",
+    "channel": "НТВ",
+    "category": "documentary",
+    "tags": ["НТВ", "Намедни", "Парфенов", "Лимонов"],
+    "curatorNote": "Найдено через публичный канал Орбита-4; требует проверки embeddable/status.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-cafe-oblomov-neubauten-1997",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4?before=266",
+    "youtubeVideoId": "M-jjMMpQH_g",
+    "title": "Кафе Обломов: Einstuerzende Neubauten, РТР, 1997",
+    "year": 1997,
+    "channel": "РТР",
+    "category": "music",
+    "tags": ["РТР", "Кафе Обломов", "Артемий Троицкий", "музыка"],
+    "curatorNote": "Найдено через публичный канал Орбита-4; требует проверки embeddable/status.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  }
+]
