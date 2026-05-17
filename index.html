@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Russian Retro TV</title>
+    <meta
+      name="description"
+      content="Тестовая версия ретро-телевизора с архивными фрагментами российского ТВ 90-х и 00-х."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="tv-stage" aria-label="Russian Retro TV player">
+        <div class="tv-set">
+          <div class="tube">
+            <div class="scanlines" aria-hidden="true"></div>
+            <div class="static-layer" id="staticLayer" aria-hidden="true"></div>
+            <div class="offscreen" id="offscreen">
+              <div class="offscreen__brand">RRTV</div>
+              <div class="offscreen__hint">POWER</div>
+            </div>
+            <iframe
+              id="player"
+              title="Архивное видео"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+
+          <aside class="panel" aria-label="Пульт управления">
+            <div class="panel__brand">
+              <span class="panel__mark">RRTV</span>
+              <span class="panel__sub">90s / 00s</span>
+            </div>
+
+            <div class="now">
+              <span class="now__label" id="channelLabel">---</span>
+              <strong id="title">Нажмите POWER</strong>
+              <span id="meta">Российское ретро-ТВ</span>
+            </div>
+
+            <div class="remote-grid">
+              <button class="remote remote--power" id="powerButton" type="button" aria-pressed="false">
+                POWER
+              </button>
+              <button class="remote" id="prevButton" type="button">CH-</button>
+              <button class="remote" id="nextButton" type="button">CH+</button>
+              <button class="remote" id="shuffleButton" type="button" aria-pressed="false">SHUF</button>
+              <button class="remote" id="fullButton" type="button">FULL</button>
+              <a class="remote remote--link" id="sourceLink" href="https://t.me/s/orbita_4" target="_blank" rel="noreferrer">
+                SRC
+              </a>
+            </div>
+
+            <div class="year-strip" id="yearStrip" aria-label="Годы"></div>
+            <div class="filters" id="filters" aria-label="Категории"></div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
