@@ -25,6 +25,7 @@ const state = {
   isOn: false,
   loadToken: 0,
   shuffle: false,
+  isAdvancing: false,
 };
 
 const el = {
@@ -58,9 +59,10 @@ async function init() {
 function bindControls() {
   el.player.addEventListener("load", () => {
     if (!state.isOn) return;
+    registerPlayerEvents();
     window.setTimeout(() => {
       if (state.isOn) el.tube.classList.add("is-loaded");
-    }, 450);
+    }, 700);
   });
   el.power.addEventListener("click", togglePower);
   el.prev.addEventListener("click", () => changeChannel(-1));
@@ -78,6 +80,75 @@ function bindControls() {
     if (event.key.toLowerCase() === "s") toggleShuffle();
     if (event.key.toLowerCase() === "f") toggleFullscreen();
   });
+
+  window.addEventListener("message", handlePlayerMessage);
+}
+
+function registerPlayerEvents() {
+  postToPlayer({ event: "listening", id: "player" });
+  postToPlayer({ event: "command", func: "addEventListener", args: ["onStateChange"] });
+  postToPlayer({ event: "command", func: "addEventListener", args: ["onError"] });
+}
+
+function postToPlayer(message) {
+  if (!el.player.contentWindow) return;
+  el.player.contentWindow.postMessage(JSON.stringify(message), "https://www.youtube.com");
+}
+
+function handlePlayerMessage(event) {
+  if (!event.origin.includes("youtube.com") || !state.isOn) return;
+
+  const data = typeof event.data === "string" ? safeParse(event.data) : event.data;
+  if (!data) return;
+
+  if (data.event === "onError") {
+    showTuning("Видео недоступно, переключаю...");
+    window.setTimeout(() => advanceAfterEnd(), 1200);
+    return;
+  }
+
+  const playerState = data.event === "infoDelivery" ? data.info?.playerState : data.info;
+  if (data.event !== "onStateChange" && data.event !== "infoDelivery") return;
+
+  if (playerState === 0) {
+    advanceAfterEnd();
+    return;
+  }
+
+  if (playerState === 1) {
+    el.tube.classList.add("is-loaded");
+    el.tube.classList.remove("is-tuning");
+    el.status.textContent = "";
+    return;
+  }
+
+  if (playerState === 3) {
+    showTuning("Настройка канала...");
+  }
+}
+
+function safeParse(value) {
+  try {
+    return JSON.parse(value);
+  } catch {
+    return null;
+  }
+}
+
+function advanceAfterEnd() {
+  if (!state.filtered.length || state.isAdvancing) return;
+  state.isAdvancing = true;
+  showTuning("Следующий канал...");
+  window.setTimeout(() => {
+    changeChannel(1);
+    state.isAdvancing = false;
+  }, 650);
+}
+
+function showTuning(message) {
+  el.status.textContent = message;
+  el.tube.classList.remove("is-loaded");
+  el.tube.classList.add("is-tuning");
 }
 
 function renderYears() {
@@ -171,7 +242,7 @@ function render() {
     el.meta.textContent = "Смените год или категорию";
     el.channel.textContent = "---";
     el.player.removeAttribute("src");
-    el.tube.classList.remove("is-loaded");
+    el.tube.classList.remove("is-loaded", "is-tuning");
     return;
   }
 
@@ -194,9 +265,8 @@ function render() {
   if (state.isOn) {
     state.loadToken += 1;
     const token = state.loadToken;
-    el.status.textContent = "Настройка канала...";
-    el.tube.classList.remove("is-loaded");
-    el.player.src = `https://www.youtube.com/embed/${item.youtubeVideoId}?autoplay=1&rel=0&modestbranding=1&playsinline=1&enablejsapi=1`;
+    showTuning("Настройка канала...");
+    el.player.src = buildEmbedUrl(item.youtubeVideoId);
     window.setTimeout(() => {
       if (state.isOn && token === state.loadToken && !el.tube.classList.contains("is-loaded")) {
         el.status.textContent = "Если видео не появилось, откройте SRC";
@@ -204,10 +274,26 @@ function render() {
     }, 5000);
   } else {
     state.loadToken += 1;
-    el.tube.classList.remove("is-loaded");
+    el.tube.classList.remove("is-loaded", "is-tuning");
     el.status.textContent = "Настройка канала...";
     el.player.removeAttribute("src");
   }
+}
+
+function buildEmbedUrl(videoId) {
+  const params = new URLSearchParams({
+    autoplay: "1",
+    rel: "0",
+    modestbranding: "1",
+    playsinline: "1",
+    enablejsapi: "1",
+  });
+
+  if (window.location.origin !== "null") {
+    params.set("origin", window.location.origin);
+  }
+
+  return `https://www.youtube.com/embed/${videoId}?${params.toString()}`;
 }
 
 init().catch((error) => {

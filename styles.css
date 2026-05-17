@@ -115,9 +115,38 @@ a {
   pointer-events: none;
   opacity: 0.16;
   background:
-    repeating-radial-gradient(circle at 17% 23%, #fff 0 1px, transparent 1px 4px),
+    repeating-radial-gradient(circle at 17% 23%, rgba(255, 255, 255, 0.95) 0 1px, transparent 1px 4px),
     repeating-linear-gradient(90deg, transparent 0 8px, rgba(255, 255, 255, 0.16) 9px 10px);
-  filter: contrast(1.8);
+  filter: contrast(1.8) brightness(1.1);
+  transform: translateZ(0);
+  transition: opacity 140ms ease;
+}
+
+.tube.is-loaded .static-layer {
+  opacity: 0.08;
+}
+
+.tube.is-tuning .static-layer {
+  opacity: 0.82;
+  animation: white-noise 130ms steps(2, end) infinite;
+  background:
+    repeating-radial-gradient(circle at 12% 31%, #fff 0 1px, transparent 1px 3px),
+    repeating-radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.9) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.5) 0 1px, transparent 1px 4px),
+    repeating-linear-gradient(90deg, transparent 0 11px, rgba(255, 255, 255, 0.28) 12px 14px);
+}
+
+.tube.is-tuning::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  pointer-events: none;
+  background:
+    linear-gradient(180deg, transparent 0 42%, rgba(255, 255, 255, 0.85) 43% 45%, transparent 46%),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.18), transparent 18%, rgba(255, 255, 255, 0.14) 72%, transparent);
+  mix-blend-mode: screen;
+  animation: tuning-roll 780ms linear infinite;
 }
 
 .video-poster {
@@ -320,6 +349,42 @@ a {
   border-color: var(--green);
   color: var(--green);
   background: rgba(108, 255, 146, 0.1);
+}
+
+@keyframes white-noise {
+  0% {
+    background-position:
+      0 0,
+      2px 8px,
+      0 0,
+      0 0;
+  }
+
+  50% {
+    background-position:
+      23px 17px,
+      -19px 11px,
+      0 14px,
+      31px 0;
+  }
+
+  100% {
+    background-position:
+      -11px 31px,
+      14px -23px,
+      0 -18px,
+      -27px 0;
+  }
+}
+
+@keyframes tuning-roll {
+  from {
+    transform: translateY(-45%);
+  }
+
+  to {
+    transform: translateY(45%);
+  }
 }
 
 @media (max-width: 900px) {
