@@ -117,7 +117,7 @@ function handlePlayerMessage(event) {
 
   if (data.event === "onError") {
     markCurrentVideoBlocked(data.info);
-    showTuning("Видео недоступно, переключаю...");
+    showTuning();
     window.setTimeout(() => advanceAfterEnd(), 450);
     return;
   }
@@ -139,7 +139,7 @@ function handlePlayerMessage(event) {
   }
 
   if (playerState === 3) {
-    showTuning("Настройка канала...");
+    showTuning();
   }
 }
 
@@ -168,15 +168,15 @@ function getPlayerOrigin() {
 function advanceAfterEnd() {
   if (!getPlayableCount() || state.isAdvancing) return;
   state.isAdvancing = true;
-  showTuning("Следующий канал...");
+  showTuning();
   window.setTimeout(() => {
     changeChannel(1);
     state.isAdvancing = false;
   }, 650);
 }
 
-function showTuning(message) {
-  el.status.textContent = message;
+function showTuning() {
+  el.status.textContent = "";
   el.tube.classList.remove("is-loaded");
   el.tube.classList.add("is-tuning");
   startNoiseAnimation();
@@ -437,11 +437,11 @@ function render() {
     state.playbackSeconds = 0;
     window.clearTimeout(state.controlsTimer);
     el.tube.classList.remove("is-player-interactive");
-    showTuning("Настройка канала...");
+    showTuning();
     el.player.src = buildEmbedUrl(item.youtubeVideoId, { controls: 0, startSeconds: 0 });
     window.setTimeout(() => {
       if (state.isOn && token === state.loadToken && !el.tube.classList.contains("is-loaded")) {
-        el.status.textContent = "Если видео не появилось, откройте SRC";
+        el.status.textContent = "";
       }
     }, 5000);
   } else {
@@ -451,7 +451,7 @@ function render() {
     state.playbackSeconds = 0;
     el.tube.classList.remove("is-loaded", "is-tuning", "is-player-interactive");
     stopNoiseAnimation();
-    el.status.textContent = "Настройка канала...";
+    el.status.textContent = "";
     el.player.removeAttribute("src");
   }
 }

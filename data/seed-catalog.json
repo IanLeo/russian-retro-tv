@@ -4244,25 +4244,6 @@
     "status": "candidate"
   },
   {
-    "id": "pl6k1-p7jkhiou7fg",
-    "source": "youtube",
-    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
-    "youtubeVideoId": "p7Jkhiou7Fg",
-    "title": "\"Всем классом - на село!\" Время. Эфир 12 июня 1979",
-    "year": 1979,
-    "channel": "ТВ-архив",
-    "category": "news",
-    "tags": [
-      "ТВ-архив",
-      "news",
-      "1979",
-      "playlist-import"
-    ],
-    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
     "id": "pl6k1-pxjbzg4tfqs",
     "source": "youtube",
     "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
@@ -4396,25 +4377,6 @@
     "status": "candidate"
   },
   {
-    "id": "pl6k1-gynl1jbdesg",
-    "source": "youtube",
-    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
-    "youtubeVideoId": "gyNL1JbdESg",
-    "title": "Контрабанда (1974)",
-    "year": 1974,
-    "channel": "ТВ-архив",
-    "category": "documentary",
-    "tags": [
-      "ТВ-архив",
-      "documentary",
-      "1974",
-      "playlist-import"
-    ],
-    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
     "id": "pl6k1-o9gxrs1ejea",
     "source": "youtube",
     "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
@@ -4427,25 +4389,6 @@
       "ТВ-архив",
       "ads",
       "1995",
-      "playlist-import"
-    ],
-    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "pl6k1-qklfhcqan8o",
-    "source": "youtube",
-    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
-    "youtubeVideoId": "qklfhcQAN8o",
-    "title": "Время. Эфир 01.05.1982",
-    "year": 1982,
-    "channel": "ТВ-архив",
-    "category": "news",
-    "tags": [
-      "ТВ-архив",
-      "news",
-      "1982",
       "playlist-import"
     ],
     "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
@@ -4580,6 +4523,899 @@
       "ads",
       "1993",
       "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2--yrowu5ksq4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "-yrOwU5KSq4",
+    "title": "ВРЕМЯ,СССР выпуск 1989-07-10",
+    "year": 1989,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-oitctkvq7-s",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "oitCtkVq7-s",
+    "title": "Программа передач на 7 октября и конец эфира (ОРТ, 06.10.1996)",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "idents",
+    "tags": [
+      "ТВ-архив",
+      "idents",
+      "1996",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-8zx6lrdqzcu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "8Zx6lRDqzCU",
+    "title": "Время (ЦТ СССР, 20.11.1988)",
+    "year": 1988,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-lxkvun8egvk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "LxkvUn8EgVk",
+    "title": "Виктор Цой в Передаче \"Взгляд\" 27.10.1989",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-xyo4f2ta4lq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "xyo4f2TA4LQ",
+    "title": "Время. Прожектор перестройки. Эфир 06.10.1988",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-iyd9fy_ruh8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "iyd9FY_RuH8",
+    "title": "Время. Эфир 23.09.1989. Переход на \"зимнее\" время (1989)",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-bbd5-liiftq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "bbd5-liiFTQ",
+    "title": "Однажды. Прощание с осенью (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-6en3znptfjo",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "6En3ZnptFjo",
+    "title": "Первый Всесоюзный конкурс красоты. Конкурсы \"Мисс Супермодель\" и \"Мисс Киношанс\". Начало (1989)",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-7ogxqwy7mja",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "7OGxQWY7MJA",
+    "title": "Утренняя почта № 127. Доброе утро! (1989)",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2--jdp7fmqdks",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "-Jdp7FMqdKs",
+    "title": "Крупнейшая в истории жд катастрофа под Уфой (Аша 1710 км)  1989 год. Полная версия",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-m_jozkjhgr8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "m_JozkjHgR8",
+    "title": "ЛЮБОВЬ С ПЕРВОГО ВЗГЛЯДА 1991 год. Премьера!",
+    "year": 1991,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1991",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-tdthqu2sve4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "TdThqU2svE4",
+    "title": "Программа \"Детский час\" с уроком английского (полный выпуск). 1992 год.",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1992",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-wasltpcv0pk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "WasltPcv0Pk",
+    "title": "Это вы можете. Аукцион. Передача 2 (1990)",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1990",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-jkgahbuljoa",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "jkGAhBUlJoA",
+    "title": "Марафон-15. Первый Макдональдс в Москве (1990)",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "kids",
+    "tags": [
+      "ТВ-архив",
+      "kids",
+      "1990",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-oqgqrujpnh4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "OqGQruJPNH4",
+    "title": "Так это было: 600 Секунд. 1991 год. Дата нового эфира: 06.01.2010",
+    "year": 1991,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1991",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-o2ltsewp4a8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "o2lTSEWP4a8",
+    "title": "Время. Эфир 10.11.1989",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-znl4li5io8m",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "ZNL4li5Io8M",
+    "title": "Москва, 1954, \"Путешествие по ГУМу\" Бытовая техника на прилавках магазина Фильм",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-kayqpn_lzu0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "kAYqPN_lZU0",
+    "title": "50х50. 1990 год. Ведущий Сергей Минаев",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1990",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-jwk5izro5-g",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "Jwk5IZRo5-g",
+    "title": "КВН 1990 Высшая лига Финал (ИГРА ЦЕЛИКОМ)",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1990",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-ehnmeeyejf4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "ehNMeeYejF4",
+    "title": "Концерт к Дню милиции (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-qnpg-ipzpe4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "qNPg-iPZPE4",
+    "title": "Международная панорама - 1988 г.",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-4ln8yydecao",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "4lN8yyDeCAo",
+    "title": "Счастливый случай ЦТ, 1991 г   Игра 1",
+    "year": 1991,
+    "channel": "ЦТ",
+    "category": "gameshow",
+    "tags": [
+      "ЦТ",
+      "gameshow",
+      "1991",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-ex2tsnwmjqu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "ex2tsnWmjqU",
+    "title": "Камера смотрит в мир",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-vk7x7sobkey",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "vk7x7sObkeY",
+    "title": "\"Музыкальный киоск\", 1988 год. Была такая популярная программа времен СССР",
+    "year": 1988,
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": [
+      "ЦТ",
+      "music",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-qds_rjbamck",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "qDS_RjbAMCk",
+    "title": "Первый выпуск \"Поле чудес\" с Владом Листьевым (1990 г.)",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1990",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-6i4xy360fgc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "6i4xy360fgc",
+    "title": "СССР конца 80-х. Без монтажа",
+    "year": 1995,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-fdclhmi0wbi",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "fdClhmI0WbI",
+    "title": "Международная панорама. - 8.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-z0ieggkjpzw",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "z0IegGkjpzw",
+    "title": "...До 16 и старше. Эфир 20.09.1988. Часть 1. Вяжем веники (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "kids",
+    "tags": [
+      "ТВ-архив",
+      "kids",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-2q4ro4qybzw",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "2Q4rO4qYbzw",
+    "title": "Подборка советской рекламы (реклама в СССР)",
+    "year": 1995,
+    "channel": "ЦТ",
+    "category": "ads",
+    "tags": [
+      "ЦТ",
+      "ads",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-jkbnfo0vyie",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "jkBnFo0VyiE",
+    "title": "Утренняя почта - Школа (ЦТ СССР 1988)",
+    "year": 1988,
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": [
+      "ЦТ",
+      "music",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-nkky-nibf2i",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "Nkky-NibF2I",
+    "title": "КВН ФИНАЛ 1963",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-54va5vbt8vg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "54VA5vBt8Vg",
+    "title": "Русские народные песни и наигрыши на природе. Веселый самовар (1968)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-n0jckjwy-n0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "n0JckjWy-n0",
+    "title": "Ожидание. Валентина Толкунова (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-ixrzcuxc3g4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "IxrzCUxC3G4",
+    "title": "Ноябрьский \"Голубой огонек\" (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-8tdskguclhu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "8TDsKgUClHU",
+    "title": "Будильник. Ярмарка скороговорок (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-pd2pz1nae-m",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "pD2pZ1nAE-M",
+    "title": "Время. Эфир 03.06.1989",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-wwb4n2lv3ce",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "Wwb4N2LV3cE",
+    "title": "До и после полуночи. Эфир 26.11.1988. Гости в студии В.Смехов и Л.Филатов (1988)",
+    "year": 1988,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1988",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-tsx-le2qyn4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "tSX-le2qYN4",
+    "title": "Песня, знакомая с детства (1989)",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-vj7epnj959m",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "vJ7epnj959M",
+    "title": "Интервью с Т. Ф. Есениной, матерью поэта.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-3il7zt-ttp8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "3iL7zT-TTp8",
+    "title": "Советская аэробика. Ритмическая гимнастика на море со Светланой Рожновой. 1989 г.",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-mmx8ti7wuxq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "Mmx8TI7wuXQ",
+    "title": "Советская аэробика. Ритмическая гимнастика. Квартира (1989)",
+    "year": 1989,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1989",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-wnqcmieov0y",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "wNQCmiEoV0Y",
+    "title": "Жизнь в СССР после войны В ЦВЕТЕ",
+    "year": 1995,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-ph77avndhaw",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "ph77aVndHaw",
+    "title": "Знаменитая секция \"Продукты для Народа\"  Об этом только мечтали советские люди. Москва, ГУМ, 1954 г.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-ozljot2awgi",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "OZLjoT2awGI",
+    "title": "Транспорт в СССР.",
+    "year": 1995,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-fx6aci-ocp0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "fX6acI-OCp0",
+    "title": "ВПУ МВД СССР",
+    "year": 1995,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2--huey_mshvc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "-HuEy_mshVc",
+    "title": "Хронический алкоголизм, белая горячка, кодирование © alcoholism, treatment, coding",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import-2"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k2-6kg_sileoha",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxkkr56oY_RCfY-2VwxTai7O",
+    "youtubeVideoId": "6Kg_silEoHA",
+    "title": "Наша \"Берёзка\"",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import-2"
     ],
     "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
     "rightsRisk": "high",
