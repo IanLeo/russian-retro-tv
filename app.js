@@ -26,6 +26,7 @@ const state = {
   loadToken: 0,
   shuffle: false,
   isAdvancing: false,
+  lastPowerVideoId: null,
 };
 
 const el = {
@@ -207,6 +208,10 @@ function applyFilters() {
 
 function togglePower() {
   state.isOn = !state.isOn;
+  if (state.isOn) {
+    state.index = getRandomIndex(state.lastPowerVideoId);
+    state.lastPowerVideoId = state.filtered[state.index]?.youtubeVideoId || null;
+  }
   el.power.setAttribute("aria-pressed", String(state.isOn));
   el.tube.classList.toggle("is-on", state.isOn);
   render();
@@ -225,6 +230,16 @@ function changeChannel(direction) {
     state.index = (state.index + direction + state.filtered.length) % state.filtered.length;
   }
   render();
+}
+
+function getRandomIndex(excludedVideoId = null) {
+  if (state.filtered.length <= 1) return 0;
+
+  let nextIndex = Math.floor(Math.random() * state.filtered.length);
+  while (state.filtered[nextIndex]?.youtubeVideoId === excludedVideoId) {
+    nextIndex = Math.floor(Math.random() * state.filtered.length);
+  }
+  return nextIndex;
 }
 
 function toggleFullscreen() {
