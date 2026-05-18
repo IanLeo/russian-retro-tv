@@ -97,11 +97,11 @@ function registerPlayerEvents() {
 
 function postToPlayer(message) {
   if (!el.player.contentWindow) return;
-  el.player.contentWindow.postMessage(JSON.stringify(message), "https://www.youtube.com");
+  el.player.contentWindow.postMessage(JSON.stringify(message), getPlayerOrigin());
 }
 
 function handlePlayerMessage(event) {
-  if (!event.origin.includes("youtube.com") || !state.isOn) return;
+  if (!isYouTubeOrigin(event.origin) || !state.isOn) return;
 
   const data = typeof event.data === "string" ? safeParse(event.data) : event.data;
   if (!data) return;
@@ -141,6 +141,20 @@ function safeParse(value) {
   } catch {
     return null;
   }
+}
+
+function isYouTubeOrigin(origin) {
+  return origin.includes("youtube.com") || origin.includes("youtube-nocookie.com");
+}
+
+function getPlayerOrigin() {
+  try {
+    const src = el.player.getAttribute("src");
+    if (src) return new URL(src).origin;
+  } catch {
+    // Keep fallback for malformed or missing src values.
+  }
+  return "https://www.youtube.com";
 }
 
 function advanceAfterEnd() {
@@ -346,6 +360,7 @@ function render() {
 function buildEmbedUrl(videoId, options = {}) {
   const controls = options.controls ?? 0;
   const startSeconds = Math.max(0, Math.floor(options.startSeconds ?? 0));
+  const embedHost = controls ? "www.youtube.com" : "www.youtube-nocookie.com";
   const params = new URLSearchParams({
     autoplay: "1",
     controls: String(controls),
@@ -360,7 +375,7 @@ function buildEmbedUrl(videoId, options = {}) {
     params.set("origin", window.location.origin);
   }
 
-  return `https://www.youtube.com/embed/${videoId}?${params.toString()}`;
+  return `https://${embedHost}/embed/${videoId}?${params.toString()}`;
 }
 
 init().catch((error) => {
