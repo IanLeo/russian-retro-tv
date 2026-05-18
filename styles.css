@@ -113,17 +113,10 @@ a {
   z-index: 4;
   pointer-events: none;
   opacity: 0;
-  background:
-    radial-gradient(circle at 14% 22%, rgba(255, 255, 255, 0.95) 0 0.7px, transparent 1.5px),
-    radial-gradient(circle at 78% 18%, rgba(255, 255, 255, 0.88) 0 0.8px, transparent 1.6px),
-    radial-gradient(circle at 63% 74%, rgba(255, 255, 255, 0.82) 0 0.7px, transparent 1.5px),
-    radial-gradient(circle at 31% 58%, rgba(255, 255, 255, 0.7) 0 0.9px, transparent 1.8px);
-  background-size:
-    12px 12px,
-    10px 10px,
-    14px 14px,
-    16px 16px;
-  filter: contrast(2) brightness(1.15);
+  background: #dcdcdc;
+  background-size: cover;
+  background-position: center;
+  filter: contrast(1.35) brightness(1.04);
   transform: translateZ(0);
   transition: opacity 100ms ease;
 }
@@ -144,9 +137,12 @@ a {
 }
 
 .tube.is-tuning .static-layer {
-  opacity: 0.9;
-  animation: white-noise 85ms steps(4, end) infinite;
-  mix-blend-mode: screen;
+  opacity: 1;
+  mix-blend-mode: normal;
+}
+
+.tube.is-tuning iframe {
+  opacity: 0 !important;
 }
 
 .video-poster {
@@ -349,56 +345,6 @@ a {
   border-color: var(--green);
   color: var(--green);
   background: rgba(108, 255, 146, 0.1);
-}
-
-@keyframes white-noise {
-  0% {
-    background-position:
-      0 0,
-      3px -2px,
-      -2px 4px,
-      5px 0;
-  }
-
-  20% {
-    background-position:
-      -8px 11px,
-      12px -6px,
-      6px 12px,
-      -11px 9px;
-  }
-
-  40% {
-    background-position:
-      10px -7px,
-      -15px 14px,
-      -9px 3px,
-      13px -5px;
-  }
-
-  60% {
-    background-position:
-      -16px -12px,
-      5px 17px,
-      14px -9px,
-      -4px -14px;
-  }
-
-  80% {
-    background-position:
-      7px 15px,
-      -11px -10px,
-      -5px 9px,
-      16px 7px;
-  }
-
-  100% {
-    background-position:
-      -14px 6px,
-      9px -16px,
-      11px 13px,
-      -9px -8px;
-  }
 }
 
 @media (max-width: 900px) {

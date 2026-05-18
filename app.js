@@ -31,6 +31,9 @@ const state = {
   playerControlsVisible: false,
   playbackSeconds: 0,
   blockedVideoIds: new Set(),
+  noiseFrames: [],
+  noiseFrameIndex: 0,
+  noiseTimer: null,
 };
 
 const el = {
@@ -47,6 +50,7 @@ const el = {
   source: document.querySelector("#sourceLink"),
   poster: document.querySelector("#videoPoster"),
   status: document.querySelector("#videoStatus"),
+  staticLayer: document.querySelector("#staticLayer"),
   years: document.querySelector("#yearStrip"),
   filters: document.querySelector("#filters"),
 };
@@ -55,6 +59,7 @@ async function init() {
   const response = await fetch("./data/seed-catalog.json");
   state.catalog = await response.json();
   state.filtered = state.catalog;
+  prepareNoiseFrames();
   renderYears();
   renderFilters();
   bindControls();
@@ -128,6 +133,7 @@ function handlePlayerMessage(event) {
   if (playerState === 1) {
     el.tube.classList.add("is-loaded");
     el.tube.classList.remove("is-tuning");
+    stopNoiseAnimation();
     el.status.textContent = "";
     return;
   }
@@ -173,6 +179,56 @@ function showTuning(message) {
   el.status.textContent = message;
   el.tube.classList.remove("is-loaded");
   el.tube.classList.add("is-tuning");
+  startNoiseAnimation();
+}
+
+function prepareNoiseFrames() {
+  const frameCount = 9;
+  for (let i = 0; i < frameCount; i += 1) {
+    state.noiseFrames.push(generateNoiseFrame(220, 165));
+  }
+  applyNoiseFrame(0);
+}
+
+function generateNoiseFrame(width, height) {
+  const canvas = document.createElement("canvas");
+  canvas.width = width;
+  canvas.height = height;
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return "";
+  const image = ctx.createImageData(width, height);
+  const data = image.data;
+  for (let i = 0; i < data.length; i += 4) {
+    const value = Math.floor(Math.random() * 256);
+    data[i] = value;
+    data[i + 1] = value;
+    data[i + 2] = value;
+    data[i + 3] = 255;
+  }
+  ctx.putImageData(image, 0, 0);
+  return canvas.toDataURL("image/png");
+}
+
+function applyNoiseFrame(index) {
+  if (!el.staticLayer || !state.noiseFrames.length) return;
+  const frame = state.noiseFrames[index % state.noiseFrames.length];
+  el.staticLayer.style.backgroundImage = `url("${frame}")`;
+}
+
+function startNoiseAnimation() {
+  if (state.noiseTimer || !state.noiseFrames.length) return;
+  applyNoiseFrame(state.noiseFrameIndex);
+  state.noiseTimer = window.setInterval(() => {
+    state.noiseFrameIndex = (state.noiseFrameIndex + 1) % state.noiseFrames.length;
+    applyNoiseFrame(state.noiseFrameIndex);
+  }, 58);
+}
+
+function stopNoiseAnimation() {
+  if (state.noiseTimer) {
+    window.clearInterval(state.noiseTimer);
+    state.noiseTimer = null;
+  }
 }
 
 function revealPlayerControls() {
@@ -339,6 +395,7 @@ function toggleFullscreen() {
 function render() {
   el.tube.classList.toggle("is-on", state.isOn);
   if (!state.filtered.length) {
+    stopNoiseAnimation();
     el.title.textContent = "Нет роликов под фильтр";
     el.meta.textContent = "Смените год или категорию";
     el.channel.textContent = "---";
@@ -348,6 +405,7 @@ function render() {
   }
 
   if (!getPlayableCount()) {
+    stopNoiseAnimation();
     el.title.textContent = "Нет доступных видео";
     el.meta.textContent = "Смените фильтр или обновите каталог";
     el.channel.textContent = "---";
@@ -392,6 +450,7 @@ function render() {
     state.playerControlsVisible = false;
     state.playbackSeconds = 0;
     el.tube.classList.remove("is-loaded", "is-tuning", "is-player-interactive");
+    stopNoiseAnimation();
     el.status.textContent = "Настройка канала...";
     el.player.removeAttribute("src");
   }
