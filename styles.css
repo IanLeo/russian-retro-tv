@@ -81,11 +81,17 @@ a {
   border: 0;
   background: #050604;
   opacity: 0;
+  pointer-events: none;
   transition: opacity 260ms ease;
 }
 
 .tube.is-on.is-loaded iframe {
   opacity: 1;
+}
+
+.tube:hover iframe,
+.tube.is-player-interactive iframe {
+  pointer-events: auto;
 }
 
 .scanlines,

@@ -27,6 +27,7 @@ const state = {
   shuffle: false,
   isAdvancing: false,
   lastPowerVideoId: null,
+  controlsTimer: null,
 };
 
 const el = {
@@ -70,6 +71,7 @@ function bindControls() {
   el.next.addEventListener("click", () => changeChannel(1));
   el.shuffle.addEventListener("click", toggleShuffle);
   el.full.addEventListener("click", toggleFullscreen);
+  el.tube.addEventListener("pointerdown", revealPlayerControls);
 
   window.addEventListener("keydown", (event) => {
     if (event.key === " ") {
@@ -150,6 +152,16 @@ function showTuning(message) {
   el.status.textContent = message;
   el.tube.classList.remove("is-loaded");
   el.tube.classList.add("is-tuning");
+}
+
+function revealPlayerControls() {
+  if (!state.isOn) return;
+
+  el.tube.classList.add("is-player-interactive");
+  window.clearTimeout(state.controlsTimer);
+  state.controlsTimer = window.setTimeout(() => {
+    el.tube.classList.remove("is-player-interactive");
+  }, 4500);
 }
 
 function renderYears() {
@@ -289,7 +301,8 @@ function render() {
     }, 5000);
   } else {
     state.loadToken += 1;
-    el.tube.classList.remove("is-loaded", "is-tuning");
+    window.clearTimeout(state.controlsTimer);
+    el.tube.classList.remove("is-loaded", "is-tuning", "is-player-interactive");
     el.status.textContent = "Настройка канала...";
     el.player.removeAttribute("src");
   }
