@@ -30,6 +30,7 @@ const state = {
   controlsTimer: null,
   playerControlsVisible: false,
   playbackSeconds: 0,
+  blockedVideoIds: new Set(),
 };
 
 const el = {
@@ -110,8 +111,9 @@ function handlePlayerMessage(event) {
   }
 
   if (data.event === "onError") {
+    markCurrentVideoBlocked(data.info);
     showTuning("Видео недоступно, переключаю...");
-    window.setTimeout(() => advanceAfterEnd(), 1200);
+    window.setTimeout(() => advanceAfterEnd(), 450);
     return;
   }
 
@@ -158,7 +160,7 @@ function getPlayerOrigin() {
 }
 
 function advanceAfterEnd() {
-  if (!state.filtered.length || state.isAdvancing) return;
+  if (!getPlayableCount() || state.isAdvancing) return;
   state.isAdvancing = true;
   showTuning("Следующий канал...");
   window.setTimeout(() => {
@@ -186,7 +188,7 @@ function revealPlayerControls() {
 }
 
 function setPlayerControlsVisibility(visible) {
-  if (!state.filtered.length) return;
+  if (!getPlayableCount()) return;
   if (visible === state.playerControlsVisible) return;
 
   state.playerControlsVisible = visible;
@@ -262,7 +264,7 @@ function applyFilters() {
 function togglePower() {
   state.isOn = !state.isOn;
   if (state.isOn) {
-    state.index = getRandomIndex(state.lastPowerVideoId);
+    state.index = getRandomIndex(state.lastPowerVideoId, state.index);
     state.lastPowerVideoId = state.filtered[state.index]?.youtubeVideoId || null;
     state.playerControlsVisible = false;
     state.playbackSeconds = 0;
@@ -278,23 +280,52 @@ function toggleShuffle() {
 }
 
 function changeChannel(direction) {
-  if (!state.filtered.length) return;
+  if (!getPlayableCount()) return;
   if (state.shuffle) {
-    state.index = Math.floor(Math.random() * state.filtered.length);
+    state.index = getRandomIndex(null, state.index);
   } else {
-    state.index = (state.index + direction + state.filtered.length) % state.filtered.length;
+    const nextIndex = findNextPlayableIndex(state.index, direction);
+    if (nextIndex === -1) return;
+    state.index = nextIndex;
   }
   render();
 }
 
-function getRandomIndex(excludedVideoId = null) {
-  if (state.filtered.length <= 1) return 0;
+function getRandomIndex(excludedVideoId = null, fallbackIndex = 0) {
+  const playable = state.filtered
+    .map((item, index) => ({ item, index }))
+    .filter(({ item }) => !state.blockedVideoIds.has(item.youtubeVideoId))
+    .map(({ index }) => index);
+  if (!playable.length) return fallbackIndex;
+  if (playable.length === 1) return playable[0];
 
-  let nextIndex = Math.floor(Math.random() * state.filtered.length);
-  while (state.filtered[nextIndex]?.youtubeVideoId === excludedVideoId) {
-    nextIndex = Math.floor(Math.random() * state.filtered.length);
+  let nextIndex = playable[Math.floor(Math.random() * playable.length)];
+  while (state.filtered[nextIndex]?.youtubeVideoId === excludedVideoId && playable.length > 1) {
+    nextIndex = playable[Math.floor(Math.random() * playable.length)];
   }
   return nextIndex;
+}
+
+function findNextPlayableIndex(fromIndex, direction) {
+  for (let step = 1; step <= state.filtered.length; step += 1) {
+    const idx = (fromIndex + step * direction + state.filtered.length) % state.filtered.length;
+    const item = state.filtered[idx];
+    if (item && !state.blockedVideoIds.has(item.youtubeVideoId)) return idx;
+  }
+  return -1;
+}
+
+function getPlayableCount() {
+  return state.filtered.filter((item) => !state.blockedVideoIds.has(item.youtubeVideoId)).length;
+}
+
+function markCurrentVideoBlocked(errorCode) {
+  const current = state.filtered[state.index];
+  if (!current) return;
+  state.blockedVideoIds.add(current.youtubeVideoId);
+  if (typeof errorCode === "number") {
+    console.info("Skipping blocked video", current.youtubeVideoId, "error", errorCode);
+  }
 }
 
 function toggleFullscreen() {
@@ -310,6 +341,15 @@ function render() {
   if (!state.filtered.length) {
     el.title.textContent = "Нет роликов под фильтр";
     el.meta.textContent = "Смените год или категорию";
+    el.channel.textContent = "---";
+    el.player.removeAttribute("src");
+    el.tube.classList.remove("is-loaded", "is-tuning");
+    return;
+  }
+
+  if (!getPlayableCount()) {
+    el.title.textContent = "Нет доступных видео";
+    el.meta.textContent = "Смените фильтр или обновите каталог";
     el.channel.textContent = "---";
     el.player.removeAttribute("src");
     el.tube.classList.remove("is-loaded", "is-tuning");
