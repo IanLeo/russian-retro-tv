@@ -8,7 +8,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "kids",
-    "tags": ["ЦТ", "до 16 и старше", "Ярослав Могутин", "молодежное ТВ"],
+    "tags": [
+      "ЦТ",
+      "до 16 и старше",
+      "Ярослав Могутин",
+      "молодежное ТВ"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -23,7 +28,12 @@
     "airDate": "1991-03-30",
     "channel": "ЦТ",
     "category": "documentary",
-    "tags": ["ЦТ", "До и после полуночи", "перестройка", "дети"],
+    "tags": [
+      "ЦТ",
+      "До и после полуночи",
+      "перестройка",
+      "дети"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -37,7 +47,12 @@
     "year": 1991,
     "channel": "2x2",
     "category": "idents",
-    "tags": ["2x2", "реклама", "заставки", "музыка"],
+    "tags": [
+      "2x2",
+      "реклама",
+      "заставки",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием фрагмента эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -51,22 +66,13 @@
     "year": 1991,
     "channel": "ТВ",
     "category": "comedy",
-    "tags": ["эстрада", "Михаил Евдокимов", "Иосиф Кобзон", "пародия"],
+    "tags": [
+      "эстрада",
+      "Михаил Евдокимов",
+      "Иосиф Кобзон",
+      "пародия"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-delo-parfenov-1992",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/277",
-    "youtubeVideoId": "JCbiKUZhz6A",
-    "title": "Дело: Леонид Парфенов на первом канале Останкино, 1992",
-    "year": 1992,
-    "channel": "Останкино",
-    "category": "documentary",
-    "tags": ["Останкино", "Дело", "Леонид Парфенов", "экономика"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием программы.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -80,7 +86,12 @@
     "airDate": "1992-12-13",
     "channel": "Останкино",
     "category": "idents",
-    "tags": ["Останкино", "4 канал", "программа передач", "диктор"],
+    "tags": [
+      "Останкино",
+      "4 канал",
+      "программа передач",
+      "диктор"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -95,7 +106,12 @@
     "airDate": "1993-05-01",
     "channel": "ТВ",
     "category": "music",
-    "tags": ["ДДТ", "Юрий Шевчук", "рок", "музыка"],
+    "tags": [
+      "ДДТ",
+      "Юрий Шевчук",
+      "рок",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -110,7 +126,12 @@
     "airDate": "1993-10-03",
     "channel": "ТВ",
     "category": "talk",
-    "tags": ["Останкино", "Василий Стрельников", "1993", "интервью"],
+    "tags": [
+      "Останкино",
+      "Василий Стрельников",
+      "1993",
+      "интервью"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -125,7 +146,12 @@
     "airDate": "1993-10-03",
     "channel": "Останкино",
     "category": "sports",
-    "tags": ["Останкино", "футбол", "Ротор", "Спартак"],
+    "tags": [
+      "Останкино",
+      "футбол",
+      "Ротор",
+      "Спартак"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -140,7 +166,12 @@
     "airDate": "1993-10-07",
     "channel": "Останкино",
     "category": "kids",
-    "tags": ["Останкино", "Там-там новости", "детское ТВ", "новости"],
+    "tags": [
+      "Останкино",
+      "Там-там новости",
+      "детское ТВ",
+      "новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой выпуска.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -154,7 +185,11 @@
     "year": 1993,
     "channel": "ТВ",
     "category": "ads",
-    "tags": ["реклама", "водка Zver", "90-е"],
+    "tags": [
+      "реклама",
+      "водка Zver",
+      "90-е"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год указан источником приблизительно.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -169,7 +204,12 @@
     "airDate": "1994-10-18",
     "channel": "ТВ",
     "category": "news",
-    "tags": ["Елизавета II", "Борис Ельцин", "Кремль", "визит"],
+    "tags": [
+      "Елизавета II",
+      "Борис Ельцин",
+      "Кремль",
+      "визит"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой события.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -184,7 +224,12 @@
     "airDate": "1995-10-14",
     "channel": "ОРТ",
     "category": "news",
-    "tags": ["ОРТ", "новости", "Красная площадь", "1995"],
+    "tags": [
+      "ОРТ",
+      "новости",
+      "Красная площадь",
+      "1995"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием репортажа.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -198,7 +243,12 @@
     "year": 1995,
     "channel": "ОРТ",
     "category": "news",
-    "tags": ["ОРТ", "Нижний Новгород", "Смоленск", "региональные новости"],
+    "tags": [
+      "ОРТ",
+      "Нижний Новгород",
+      "Смоленск",
+      "региональные новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием репортажей.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -212,7 +262,12 @@
     "year": 1995,
     "channel": "ОРТ",
     "category": "sports",
-    "tags": ["ОРТ", "Кубок Дэвиса", "Андрей Чесноков", "Пит Сампрас"],
+    "tags": [
+      "ОРТ",
+      "Кубок Дэвиса",
+      "Андрей Чесноков",
+      "Пит Сампрас"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием трансляции.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -227,7 +282,12 @@
     "airDate": "1996-01-13",
     "channel": "ОРТ",
     "category": "news",
-    "tags": ["ОРТ", "Ельцин", "Первая чеченская", "новости"],
+    "tags": [
+      "ОРТ",
+      "Ельцин",
+      "Первая чеченская",
+      "новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -241,7 +301,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "talk",
-    "tags": ["ТВ-6", "Сергей Соседов", "Алена Апина", "интервью"],
+    "tags": [
+      "ТВ-6",
+      "Сергей Соседов",
+      "Алена Апина",
+      "интервью"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием фрагмента.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -255,7 +320,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "talk",
-    "tags": ["ТВ-6", "Акулы политпера", "Михаил Горбачев", "Александр Невский"],
+    "tags": [
+      "ТВ-6",
+      "Акулы политпера",
+      "Михаил Горбачев",
+      "Александр Невский"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -269,7 +339,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "music",
-    "tags": ["РТР", "Кафе Обломов", "Артемий Троицкий", "музыка"],
+    "tags": [
+      "РТР",
+      "Кафе Обломов",
+      "Артемий Троицкий",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием передачи.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -283,7 +358,12 @@
     "year": 1997,
     "channel": "НТВ",
     "category": "gameshow",
-    "tags": ["НТВ", "Перехват", "Николай Фоменко", "авто"],
+    "tags": [
+      "НТВ",
+      "Перехват",
+      "Николай Фоменко",
+      "авто"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием шоу.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -297,7 +377,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "talk",
-    "tags": ["РТР", "На ночь глядя", "вечерний эфир", "кино"],
+    "tags": [
+      "РТР",
+      "На ночь глядя",
+      "вечерний эфир",
+      "кино"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с несколькими YouTube-ссылками на выпуск.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -311,7 +396,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "talk",
-    "tags": ["РТР", "На ночь глядя", "вечерний эфир", "кино"],
+    "tags": [
+      "РТР",
+      "На ночь глядя",
+      "вечерний эфир",
+      "кино"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с несколькими YouTube-ссылками на выпуск.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -325,7 +415,12 @@
     "year": 1997,
     "channel": "ТВЦ",
     "category": "music",
-    "tags": ["ТВЦ", "Валерий Леонтьев", "Лариса Долина", "концерт"],
+    "tags": [
+      "ТВЦ",
+      "Валерий Леонтьев",
+      "Лариса Долина",
+      "концерт"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием выступления.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -339,7 +434,12 @@
     "year": 1998,
     "channel": "ТВ-6",
     "category": "comedy",
-    "tags": ["ТВ-6", "БИС", "Роман Виктюк", "сатира"],
+    "tags": [
+      "ТВ-6",
+      "БИС",
+      "Роман Виктюк",
+      "сатира"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -354,7 +454,12 @@
     "airDate": "1998-03-20",
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "программа передач", "заставки", "Чистилище"],
+    "tags": [
+      "ОРТ",
+      "программа передач",
+      "заставки",
+      "Чистилище"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -368,7 +473,12 @@
     "year": 1999,
     "channel": "ТВ",
     "category": "comedy",
-    "tags": ["Ефим Шифрин", "Виталий Вульф", "эстрада", "пародия"],
+    "tags": [
+      "Ефим Шифрин",
+      "Виталий Вульф",
+      "эстрада",
+      "пародия"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год указан источником как приблизительный.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -382,7 +492,12 @@
     "year": 1999,
     "channel": "ТВ",
     "category": "kids",
-    "tags": ["Вкусные истории", "детское ТВ", "кулинария", "анимация"],
+    "tags": [
+      "Вкусные истории",
+      "детское ТВ",
+      "кулинария",
+      "анимация"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -396,7 +511,12 @@
     "year": 1999,
     "channel": "ТВЦ",
     "category": "comedy",
-    "tags": ["ТВЦ", "Доренко", "пародия", "сатира"],
+    "tags": [
+      "ТВЦ",
+      "Доренко",
+      "пародия",
+      "сатира"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -410,7 +530,12 @@
     "year": 1999,
     "channel": "ТВ",
     "category": "comedy",
-    "tags": ["Осторожно модерн", "Дмитрий Нагиев", "Сергей Рост", "Новый год"],
+    "tags": [
+      "Осторожно модерн",
+      "Дмитрий Нагиев",
+      "Сергей Рост",
+      "Новый год"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год в каталоге указан ориентировочно.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -424,7 +549,12 @@
     "year": 2000,
     "channel": "НТВ",
     "category": "talk",
-    "tags": ["НТВ", "Антропология", "Дмитрий Дибров", "Ярослав Могутин"],
+    "tags": [
+      "НТВ",
+      "Антропология",
+      "Дмитрий Дибров",
+      "Ярослав Могутин"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -438,7 +568,11 @@
     "year": 2001,
     "channel": "ТВ",
     "category": "ads",
-    "tags": ["социальная реклама", "2001", "ТВ-реклама"],
+    "tags": [
+      "социальная реклама",
+      "2001",
+      "ТВ-реклама"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -452,7 +586,12 @@
     "year": 2001,
     "channel": "ТВ",
     "category": "music",
-    "tags": ["Борис Моисеев", "Иосиф Кобзон", "концерт", "музыка"],
+    "tags": [
+      "Борис Моисеев",
+      "Иосиф Кобзон",
+      "концерт",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и годом.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -467,7 +606,12 @@
     "airDate": "2002-09-15",
     "channel": "НТВ",
     "category": "documentary",
-    "tags": ["НТВ", "Намедни", "Парфенов", "Лимонов"],
+    "tags": [
+      "НТВ",
+      "Намедни",
+      "Парфенов",
+      "Лимонов"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -481,22 +625,13 @@
     "year": 2003,
     "channel": "НТВ",
     "category": "news",
-    "tags": ["НТВ", "Страна и мир", "Лимонов", "новости"],
+    "tags": [
+      "НТВ",
+      "Страна и мир",
+      "Лимонов",
+      "новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и описанием эфира.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-namedni-exorcism-2003",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/273",
-    "youtubeVideoId": "ds07Cb4bT08",
-    "title": "Намедни: сюжет Андрея Лошака про русский экзорцизм, 2003",
-    "year": 2003,
-    "channel": "НТВ",
-    "category": "documentary",
-    "tags": ["НТВ", "Намедни", "Андрей Лошак", "документальный сюжет"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год указан источником.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -509,7 +644,12 @@
     "year": 2003,
     "channel": "НТВ",
     "category": "documentary",
-    "tags": ["НТВ", "Намедни", "Чернобыль", "S.T.A.L.K.E.R."],
+    "tags": [
+      "НТВ",
+      "Намедни",
+      "Чернобыль",
+      "S.T.A.L.K.E.R."
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год указан источником как приблизительный.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -523,7 +663,12 @@
     "year": 2003,
     "channel": "НТВ",
     "category": "documentary",
-    "tags": ["НТВ", "Намедни", "Андрей Лошак", "репортаж"],
+    "tags": [
+      "НТВ",
+      "Намедни",
+      "Андрей Лошак",
+      "репортаж"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год указан источником как приблизительный.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -538,7 +683,12 @@
     "airDate": "2004-09-03",
     "channel": "Первый канал",
     "category": "news",
-    "tags": ["Первый канал", "Беслан", "экстренный выпуск", "новости"],
+    "tags": [
+      "Первый канал",
+      "Беслан",
+      "экстренный выпуск",
+      "новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой и датой эфира.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -553,7 +703,12 @@
     "airDate": "1990-08-07",
     "channel": "ЦТ",
     "category": "news",
-    "tags": ["ЦТ", "Время", "новости", "1990"],
+    "tags": [
+      "ЦТ",
+      "Время",
+      "новости",
+      "1990"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по выпуску новостей.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -567,7 +722,12 @@
     "year": 1990,
     "channel": "ТВ",
     "category": "comedy",
-    "tags": ["Аншлаг", "Михаил Задорнов", "Станислав Черчесов", "юмор"],
+    "tags": [
+      "Аншлаг",
+      "Михаил Задорнов",
+      "Станислав Черчесов",
+      "юмор"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по юмористическому формату.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -581,7 +741,12 @@
     "year": 1992,
     "channel": "Останкино",
     "category": "talk",
-    "tags": ["Останкино", "Тема", "Владислав Листьев", "Аллан Чумак"],
+    "tags": [
+      "Останкино",
+      "Тема",
+      "Владислав Листьев",
+      "Аллан Чумак"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как студийное обсуждение.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -595,7 +760,12 @@
     "year": 1993,
     "channel": "РТР",
     "category": "kids",
-    "tags": ["РТР", "Там-там новости", "Борис Корчевников", "детское ТВ"],
+    "tags": [
+      "РТР",
+      "Там-там новости",
+      "Борис Корчевников",
+      "детское ТВ"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по детской программе.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -610,7 +780,12 @@
     "airDate": "1993-10-04",
     "channel": "МТК",
     "category": "news",
-    "tags": ["МТК", "Останкино", "октябрь 1993", "репортаж"],
+    "tags": [
+      "МТК",
+      "Останкино",
+      "октябрь 1993",
+      "репортаж"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по кризисному репортажу.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -624,7 +799,12 @@
     "year": 1994,
     "channel": "РТР",
     "category": "news",
-    "tags": ["РТР", "Подробности", "Сергей Доренко", "Ельцин"],
+    "tags": [
+      "РТР",
+      "Подробности",
+      "Сергей Доренко",
+      "Ельцин"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как информационная программа.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -638,7 +818,12 @@
     "year": 1995,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Коррозия металла", "Железный марш", "музыка"],
+    "tags": [
+      "ТВ-6",
+      "Коррозия металла",
+      "Железный марш",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по музыкальному вещанию.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -653,7 +838,12 @@
     "airDate": "1995-03-24",
     "channel": "ОРТ",
     "category": "documentary",
-    "tags": ["ОРТ", "Взгляд", "Аум Синрике", "ВИД"],
+    "tags": [
+      "ОРТ",
+      "Взгляд",
+      "Аум Синрике",
+      "ВИД"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как публицистический выпуск.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -667,7 +857,12 @@
     "year": 1995,
     "channel": "ТВ",
     "category": "idents",
-    "tags": ["Алла Пугачева", "Новый год", "поздравление", "эфир"],
+    "tags": [
+      "Алла Пугачева",
+      "Новый год",
+      "поздравление",
+      "эфир"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как эфирная вставка.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -682,7 +877,12 @@
     "airDate": "1996-05-09",
     "channel": "ОРТ",
     "category": "gameshow",
-    "tags": ["ОРТ", "Поле чудес", "Леонид Якубович", "игровое шоу"],
+    "tags": [
+      "ОРТ",
+      "Поле чудес",
+      "Леонид Якубович",
+      "игровое шоу"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по формату телеигры.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -696,7 +896,12 @@
     "year": 1996,
     "channel": "ТВ-6",
     "category": "talk",
-    "tags": ["ТВ-6", "Акулы пера", "Сергей Соседов", "Агата Кристи"],
+    "tags": [
+      "ТВ-6",
+      "Акулы пера",
+      "Сергей Соседов",
+      "Агата Кристи"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; год выбран по описанию источника.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -711,7 +916,12 @@
     "airDate": "1997-06-28",
     "channel": "ОРТ",
     "category": "gameshow",
-    "tags": ["ОРТ", "Что Где Когда", "телеигра", "1997"],
+    "tags": [
+      "ОРТ",
+      "Что Где Когда",
+      "телеигра",
+      "1997"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по формату телеигры.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -725,22 +935,13 @@
     "year": 1997,
     "channel": "ТВЦ",
     "category": "kids",
-    "tags": ["ТВЦ", "Сергей Супонев", "Круголя", "детское ТВ"],
+    "tags": [
+      "ТВЦ",
+      "Сергей Супонев",
+      "Круголя",
+      "детское ТВ"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по детскому формату.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-shainsky-tv6-quality-1997",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/176",
-    "youtubeVideoId": "tKMJUWhVvR8",
-    "title": "Знак качества: Владимир Шаинский на ТВ-6, 1997",
-    "year": 1997,
-    "channel": "ТВ-6",
-    "category": "music",
-    "tags": ["ТВ-6", "Знак качества", "Владимир Шаинский", "музыка"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по музыкальному фрагменту.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -753,7 +954,12 @@
     "year": 1998,
     "channel": "ОРТ",
     "category": "sports",
-    "tags": ["ОРТ", "Франция-98", "футбол", "чемпионат мира"],
+    "tags": [
+      "ОРТ",
+      "Франция-98",
+      "футбол",
+      "чемпионат мира"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по футбольному ролику.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -767,7 +973,12 @@
     "year": 1998,
     "channel": "Региональное ТВ",
     "category": "regional",
-    "tags": ["Ростов", "Кирилл Серебренников", "региональное ТВ", "кино"],
+    "tags": [
+      "Ростов",
+      "Кирилл Серебренников",
+      "региональное ТВ",
+      "кино"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как региональный сюжет.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -781,7 +992,12 @@
     "year": 1999,
     "channel": "ТВЦ",
     "category": "music",
-    "tags": ["ТВЦ", "Программа А", "Егор Летов", "Гражданская оборона"],
+    "tags": [
+      "ТВЦ",
+      "Программа А",
+      "Егор Летов",
+      "Гражданская оборона"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по музыкальной программе.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -795,23 +1011,13 @@
     "year": 1999,
     "channel": "ТВ",
     "category": "music",
-    "tags": ["Филипп Киркоров", "Овация", "эстрада", "1999"],
+    "tags": [
+      "Филипп Киркоров",
+      "Овация",
+      "эстрада",
+      "1999"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по музыкальному выступлению.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-vremya-khodorkovsky-2000",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/200",
-    "youtubeVideoId": "JxpajEpnZK8",
-    "title": "Время: нарезка выпуска с Ходорковским, 21 июля 2000",
-    "year": 2000,
-    "airDate": "2000-07-21",
-    "channel": "ОРТ",
-    "category": "news",
-    "tags": ["ОРТ", "Время", "Михаил Ходорковский", "новости"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по выпуску новостей.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -824,7 +1030,12 @@
     "year": 2001,
     "channel": "MTV Россия",
     "category": "music",
-    "tags": ["MTV Россия", "Король и Шут", "Любимые клипы", "музыка"],
+    "tags": [
+      "MTV Россия",
+      "Король и Шут",
+      "Любимые клипы",
+      "музыка"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по музыкальной программе.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -839,37 +1050,13 @@
     "airDate": "2001-09-11",
     "channel": "НТВ",
     "category": "news",
-    "tags": ["НТВ", "11 сентября", "прямой эфир", "новости"],
+    "tags": [
+      "НТВ",
+      "11 сентября",
+      "прямой эфир",
+      "новости"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как новостной прямой эфир.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-ort-september-11-2001",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/159",
-    "youtubeVideoId": "gpfkhqwXwS8",
-    "title": "Новости о событиях 11 сентября 2001, ОРТ",
-    "year": 2001,
-    "airDate": "2001-09-11",
-    "channel": "ОРТ",
-    "category": "news",
-    "tags": ["ОРТ", "11 сентября", "Екатерина Андреева", "новости"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как новостной выпуск.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-geroy-dnya-parfenov-bodrov-2001",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/161",
-    "youtubeVideoId": "O-zmR6uum2k",
-    "title": "Герой дня: Леонид Парфенов и Сергей Бодров, 2001",
-    "year": 2001,
-    "channel": "НТВ",
-    "category": "talk",
-    "tags": ["НТВ", "Герой дня", "Леонид Парфенов", "Сергей Бодров"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как интервью.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -882,22 +1069,13 @@
     "year": 2001,
     "channel": "Первый канал",
     "category": "kids",
-    "tags": ["Первый канал", "Спокойной ночи малыши", "интернет", "детское ТВ"],
+    "tags": [
+      "Первый канал",
+      "Спокойной ночи малыши",
+      "интернет",
+      "детское ТВ"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена по детской программе.",
-    "rightsRisk": "high",
-    "status": "candidate"
-  },
-  {
-    "id": "orbita4-nord-ost-ntv-inside-2002",
-    "source": "youtube",
-    "sourceUrl": "https://t.me/s/orbita_4/172",
-    "youtubeVideoId": "vsEGgv_TC14",
-    "title": "Норд-Ост: репортаж НТВ изнутри, 2002",
-    "year": 2002,
-    "channel": "НТВ",
-    "category": "news",
-    "tags": ["НТВ", "Норд-Ост", "репортаж", "новости"],
-    "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как новостной репортаж.",
     "rightsRisk": "high",
     "status": "candidate"
   },
@@ -910,7 +1088,12 @@
     "year": 2004,
     "channel": "Первый канал",
     "category": "talk",
-    "tags": ["Первый канал", "Леонид Парфенов", "Владимир Познер", "НТВ"],
+    "tags": [
+      "Первый канал",
+      "Леонид Парфенов",
+      "Владимир Познер",
+      "НТВ"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как телевизионное интервью.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -924,7 +1107,12 @@
     "year": 2004,
     "channel": "НТВ",
     "category": "documentary",
-    "tags": ["НТВ", "Намедни", "Трансвааль", "репортаж"],
+    "tags": [
+      "НТВ",
+      "Намедни",
+      "Трансвааль",
+      "репортаж"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как публицистический сюжет.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -938,7 +1126,12 @@
     "year": 2004,
     "channel": "НТВ",
     "category": "news",
-    "tags": ["НТВ", "Намедни", "инаугурация", "Путин"],
+    "tags": [
+      "НТВ",
+      "Намедни",
+      "инаугурация",
+      "Путин"
+    ],
     "curatorNote": "Публичный пост Орбиты-4 с YouTube-ссылкой; категория определена как новостной репортаж.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -952,7 +1145,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Дрёма", "Владимир Епифанцев", "контркультура"],
+    "tags": [
+      "ТВ-6",
+      "Дрёма",
+      "Владимир Епифанцев",
+      "контркультура"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; год и контекст передачи подтверждены справочными источниками.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -966,7 +1164,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Дрёма", "Епифанцев", "андеграунд"],
+    "tags": [
+      "ТВ-6",
+      "Дрёма",
+      "Епифанцев",
+      "андеграунд"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как ночная музыкально-контркультурная программа.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -980,7 +1183,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Дрёма", "Анфиса Чехова", "контркультура"],
+    "tags": [
+      "ТВ-6",
+      "Дрёма",
+      "Анфиса Чехова",
+      "контркультура"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; год выбран по периоду выхода передачи.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -994,7 +1202,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Деконструктор", "Владимир Епифанцев", "авангард"],
+    "tags": [
+      "ТВ-6",
+      "Деконструктор",
+      "Владимир Епифанцев",
+      "авангард"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как авторская музыкально-авангардная рубрика.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1008,7 +1221,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["ЦТ", "Программа А", "рок", "видеоклипы"],
+    "tags": [
+      "ЦТ",
+      "Программа А",
+      "рок",
+      "видеоклипы"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed на канале ГОСТЕЛЕРАДИОФОНД.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1022,7 +1240,13 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["ЦТ", "Программа А", "АукцЫон", "Браво", "Черный Обелиск"],
+    "tags": [
+      "ЦТ",
+      "Программа А",
+      "АукцЫон",
+      "Браво",
+      "Черный Обелиск"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как рок-телепередача.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1036,7 +1260,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["ЦТ", "Программа А", "Петр Мамонов", "Звуки Му"],
+    "tags": [
+      "ЦТ",
+      "Программа А",
+      "Петр Мамонов",
+      "Звуки Му"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed на канале ГОСТЕЛЕРАДИОФОНД.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1050,7 +1279,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["ЦТ", "Программа А", "Иэн Гиллан", "Deep Purple"],
+    "tags": [
+      "ЦТ",
+      "Программа А",
+      "Иэн Гиллан",
+      "Deep Purple"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed на канале ГОСТЕЛЕРАДИОФОНД.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1064,7 +1298,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Диск-канал", "музыкальное ТВ", "90-е"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "музыкальное ТВ",
+      "90-е"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальный блок ТВ-6.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1078,7 +1317,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Диск-канал", "Rollins Band", "реклама"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "Rollins Band",
+      "реклама"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальный эфир с рекламными блоками.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1092,7 +1336,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Диск-канал", "Сплин", "Rollins Band"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "Сплин",
+      "Rollins Band"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальный эфир.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1107,7 +1356,12 @@
     "airDate": "1998-09-25",
     "channel": "MTV Россия",
     "category": "idents",
-    "tags": ["MTV Россия", "запуск канала", "музыкальное ТВ", "заставки"],
+    "tags": [
+      "MTV Россия",
+      "запуск канала",
+      "музыкальное ТВ",
+      "заставки"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как запуск/эфирная идентификация канала.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1122,7 +1376,12 @@
     "airDate": "2000-09-25",
     "channel": "MTV Россия",
     "category": "music",
-    "tags": ["MTV Россия", "эфир", "музыкальное ТВ", "2000"],
+    "tags": [
+      "MTV Россия",
+      "эфир",
+      "музыкальное ТВ",
+      "2000"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальный телеканал/эфир.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1136,7 +1395,12 @@
     "year": 2000,
     "channel": "MTV Россия",
     "category": "music",
-    "tags": ["MTV Россия", "Три горячих вопроса", "музыкальное ТВ", "2000"],
+    "tags": [
+      "MTV Россия",
+      "Три горячих вопроса",
+      "музыкальное ТВ",
+      "2000"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальное интервью.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1151,8 +1415,227 @@
     "airDate": "2003-04-23",
     "channel": "MTV Россия",
     "category": "music",
-    "tags": ["MTV Россия", "эфир", "музыкальное ТВ", "2003"],
+    "tags": [
+      "MTV Россия",
+      "эфир",
+      "музыкальное ТВ",
+      "2003"
+    ],
     "curatorNote": "Найдено через YouTube Search/oEmbed; категория определена как музыкальный телеканал/эфир.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-monument-istiny-1995",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4/216",
+    "youtubeVideoId": "29s_gWUUCgc",
+    "title": "Монумент истины: пародия на Момент истины, 1995",
+    "year": 1995,
+    "channel": "ТВ",
+    "category": "comedy",
+    "tags": ["пародия", "Момент истины", "ТВ-юмор", "90-е"],
+    "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-listyev-home-video-1995",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4/190",
+    "youtubeVideoId": "Lxss5CLZ3sI",
+    "title": "Владислав Листьев: домашнее видео (НТВ, 1995)",
+    "year": 1995,
+    "channel": "НТВ",
+    "category": "documentary",
+    "tags": ["НТВ", "Владислав Листьев", "архив", "память"],
+    "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-weekend-kapriz-1998",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4/194",
+    "youtubeVideoId": "ptWwwzQrjMM",
+    "title": "Weekend Каприз: эфирный фрагмент, 1998",
+    "year": 1998,
+    "channel": "MTV Россия",
+    "category": "music",
+    "tags": ["MTV Россия", "Weekend Каприз", "музыкальный эфир", "90-е"],
+    "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-dorenko-pugacheva-leontev-1994",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4/171",
+    "youtubeVideoId": "9EQU0inLWw8",
+    "title": "Подробности: Доренко, Пугачева и Леонтьев (РТР, 1994)",
+    "year": 1994,
+    "channel": "РТР",
+    "category": "talk",
+    "tags": ["РТР", "Сергей Доренко", "Алла Пугачева", "интервью"],
+    "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "orbita4-shainsky-kolobova-1995",
+    "source": "youtube",
+    "sourceUrl": "https://t.me/s/orbita_4/175",
+    "youtubeVideoId": "kTvuuflQNrk",
+    "title": "Тамара Колобова и Владимир Шаинский, 1995",
+    "year": 1995,
+    "channel": "ТВ",
+    "category": "music",
+    "tags": ["Владимир Шаинский", "эстрада", "90-е", "концерт"],
+    "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-program-a-a-parad-1990-part1",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=0Hnh8WoVYmo",
+    "youtubeVideoId": "0Hnh8WoVYmo",
+    "title": "Программа А: А-Парад, часть 1 (1 января 1990)",
+    "year": 1990,
+    "airDate": "1990-01-01",
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": ["Программа А", "ЦТ", "музыкальные клипы", "рок"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-program-a-1989-review-1990",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=tKv_OvwN8is",
+    "youtubeVideoId": "tKv_OvwN8is",
+    "title": "Программа А: обзор музыкальных событий 1989 года (1990)",
+    "year": 1990,
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": ["Программа А", "ЦТ", "рок", "музыкальная хроника"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-program-a-british-rock-1990",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=mZbosfRiUXk",
+    "youtubeVideoId": "mZbosfRiUXk",
+    "title": "Программа А представляет: Британский рок, первая волна (1990)",
+    "year": 1990,
+    "channel": "ЦТ",
+    "category": "documentary",
+    "tags": ["Программа А", "Британский рок", "музыка", "документальный"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-program-a-festival-vremya-1990",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=DfrsJY0GIA0",
+    "youtubeVideoId": "DfrsJY0GIA0",
+    "title": "Программа А: Фестиваль (канал Время, 1990)",
+    "year": 1990,
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": ["Программа А", "канал Время", "рок", "фестиваль"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-program-a-mamonov-utrennie-fonari-1990",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=vLhOucEEkMM",
+    "youtubeVideoId": "vLhOucEEkMM",
+    "title": "Программа А: Мамонов и Алексей - Утренние фонари (1990)",
+    "year": 1990,
+    "channel": "ЦТ",
+    "category": "music",
+    "tags": ["Программа А", "Петр Мамонов", "Звуки Му", "авангард"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-disk-kanal-ekb-asv-1997",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=WNY-q5H22_U",
+    "youtubeVideoId": "WNY-q5H22_U",
+    "title": "Диск-канал (АСВ Екатеринбург / ТВ-6), 21 апреля 1997",
+    "year": 1997,
+    "airDate": "1997-04-21",
+    "channel": "ТВ-6",
+    "category": "regional",
+    "tags": ["ТВ-6", "Екатеринбург", "АСВ", "Диск-канал"],
+    "curatorNote": "Найдено в YouTube-поиске через источники ekb tv rec; доступность подтверждена oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-tv6-hit-parad-gorbushki-sept-1997",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=mHZcg0dRnHk",
+    "youtubeVideoId": "mHZcg0dRnHk",
+    "title": "ТВ-6: Хит-парад Горбушки, рекламы и анонсы (сентябрь 1997)",
+    "year": 1997,
+    "channel": "ТВ-6",
+    "category": "music",
+    "tags": ["ТВ-6", "Хит-парад Горбушки", "реклама", "анонсы"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-disk-kanal-sept-1997-fragment",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=zoPJ1QdI6dw",
+    "youtubeVideoId": "zoPJ1QdI6dw",
+    "title": "Диск-канал: фрагмент эфира ТВ-6 (сентябрь 1997)",
+    "year": 1997,
+    "channel": "ТВ-6",
+    "category": "music",
+    "tags": ["ТВ-6", "Диск-канал", "музыка", "эфир"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-tv6-annonses-07091997",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=67DXK4hbH-Q",
+    "youtubeVideoId": "67DXK4hbH-Q",
+    "title": "Анонсы ТВ-6, 7 сентября 1997",
+    "year": 1997,
+    "airDate": "1997-09-07",
+    "channel": "ТВ-6",
+    "category": "idents",
+    "tags": ["ТВ-6", "анонсы", "эфир", "1997"],
+    "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "youtube-tv6-disk-promо-ekb-1997",
+    "source": "youtube",
+    "sourceUrl": "https://www.youtube.com/watch?v=V2Z6xbSYfLY",
+    "youtubeVideoId": "V2Z6xbSYfLY",
+    "title": "Промо программы Диск-канал (АСВ Екатеринбург / ТВ-6), 13 апреля 1997",
+    "year": 1997,
+    "airDate": "1997-04-13",
+    "channel": "ТВ-6",
+    "category": "idents",
+    "tags": ["ТВ-6", "Диск-канал", "промо", "Екатеринбург"],
+    "curatorNote": "Найдено в YouTube-поиске через региональный источник; доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
   }
