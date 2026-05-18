@@ -28,6 +28,8 @@ const state = {
   isAdvancing: false,
   lastPowerVideoId: null,
   controlsTimer: null,
+  playerControlsVisible: false,
+  playbackSeconds: 0,
 };
 
 const el = {
@@ -103,6 +105,9 @@ function handlePlayerMessage(event) {
 
   const data = typeof event.data === "string" ? safeParse(event.data) : event.data;
   if (!data) return;
+  if (data.event === "infoDelivery" && typeof data.info?.currentTime === "number") {
+    state.playbackSeconds = data.info.currentTime;
+  }
 
   if (data.event === "onError") {
     showTuning("Видео недоступно, переключаю...");
@@ -157,11 +162,33 @@ function showTuning(message) {
 function revealPlayerControls() {
   if (!state.isOn) return;
 
-  el.tube.classList.add("is-player-interactive");
+  if (!state.playerControlsVisible) {
+    setPlayerControlsVisibility(true);
+  }
   window.clearTimeout(state.controlsTimer);
   state.controlsTimer = window.setTimeout(() => {
-    el.tube.classList.remove("is-player-interactive");
+    setPlayerControlsVisibility(false);
   }, 4500);
+}
+
+function setPlayerControlsVisibility(visible) {
+  if (!state.filtered.length) return;
+  if (visible === state.playerControlsVisible) return;
+
+  state.playerControlsVisible = visible;
+  el.tube.classList.toggle("is-player-interactive", visible);
+
+  const current = state.filtered[state.index];
+  if (!current) return;
+
+  const startSeconds = Number.isFinite(state.playbackSeconds)
+    ? Math.max(0, Math.floor(state.playbackSeconds))
+    : 0;
+  state.loadToken += 1;
+  el.player.src = buildEmbedUrl(current.youtubeVideoId, {
+    controls: visible ? 1 : 0,
+    startSeconds,
+  });
 }
 
 function renderYears() {
@@ -223,6 +250,8 @@ function togglePower() {
   if (state.isOn) {
     state.index = getRandomIndex(state.lastPowerVideoId);
     state.lastPowerVideoId = state.filtered[state.index]?.youtubeVideoId || null;
+    state.playerControlsVisible = false;
+    state.playbackSeconds = 0;
   }
   el.power.setAttribute("aria-pressed", String(state.isOn));
   el.tube.classList.toggle("is-on", state.isOn);
@@ -292,8 +321,12 @@ function render() {
   if (state.isOn) {
     state.loadToken += 1;
     const token = state.loadToken;
+    state.playerControlsVisible = false;
+    state.playbackSeconds = 0;
+    window.clearTimeout(state.controlsTimer);
+    el.tube.classList.remove("is-player-interactive");
     showTuning("Настройка канала...");
-    el.player.src = buildEmbedUrl(item.youtubeVideoId);
+    el.player.src = buildEmbedUrl(item.youtubeVideoId, { controls: 0, startSeconds: 0 });
     window.setTimeout(() => {
       if (state.isOn && token === state.loadToken && !el.tube.classList.contains("is-loaded")) {
         el.status.textContent = "Если видео не появилось, откройте SRC";
@@ -302,20 +335,26 @@ function render() {
   } else {
     state.loadToken += 1;
     window.clearTimeout(state.controlsTimer);
+    state.playerControlsVisible = false;
+    state.playbackSeconds = 0;
     el.tube.classList.remove("is-loaded", "is-tuning", "is-player-interactive");
     el.status.textContent = "Настройка канала...";
     el.player.removeAttribute("src");
   }
 }
 
-function buildEmbedUrl(videoId) {
+function buildEmbedUrl(videoId, options = {}) {
+  const controls = options.controls ?? 0;
+  const startSeconds = Math.max(0, Math.floor(options.startSeconds ?? 0));
   const params = new URLSearchParams({
     autoplay: "1",
+    controls: String(controls),
     rel: "0",
     modestbranding: "1",
     playsinline: "1",
     enablejsapi: "1",
   });
+  if (startSeconds > 0) params.set("start", String(startSeconds));
 
   if (window.location.origin !== "null") {
     params.set("origin", window.location.origin);
