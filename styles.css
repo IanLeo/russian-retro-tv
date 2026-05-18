@@ -93,25 +93,9 @@ a {
   pointer-events: auto;
 }
 
-.tube.is-on.is-loaded:not(.is-player-interactive)::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 68px;
-  z-index: 7;
-  pointer-events: none;
-  background: linear-gradient(
-    180deg,
-    rgba(5, 6, 4, 0) 0%,
-    rgba(5, 6, 4, 0.86) 58%,
-    rgba(5, 6, 4, 0.98) 100%
-  );
-}
-
 .scanlines,
 .static-layer,
+.screen-vignette,
 .video-poster,
 .video-status,
 .offscreen {
@@ -135,6 +119,21 @@ a {
   filter: contrast(1.8) brightness(1.1);
   transform: translateZ(0);
   transition: opacity 140ms ease;
+}
+
+.screen-vignette {
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.78;
+  background:
+    radial-gradient(
+      130% 110% at 50% 48%,
+      rgba(0, 0, 0, 0) 55%,
+      rgba(0, 0, 0, 0.22) 74%,
+      rgba(0, 0, 0, 0.46) 100%
+    ),
+    radial-gradient(120% 100% at 50% 0%, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0) 35%);
+  mix-blend-mode: multiply;
 }
 
 .tube.is-tuning .static-layer {
