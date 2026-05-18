@@ -114,11 +114,18 @@ a {
   pointer-events: none;
   opacity: 0;
   background:
-    repeating-radial-gradient(circle at 17% 23%, rgba(255, 255, 255, 0.95) 0 1px, transparent 1px 4px),
-    repeating-linear-gradient(90deg, transparent 0 8px, rgba(255, 255, 255, 0.16) 9px 10px);
-  filter: contrast(1.8) brightness(1.1);
+    radial-gradient(circle at 14% 22%, rgba(255, 255, 255, 0.95) 0 0.7px, transparent 1.5px),
+    radial-gradient(circle at 78% 18%, rgba(255, 255, 255, 0.88) 0 0.8px, transparent 1.6px),
+    radial-gradient(circle at 63% 74%, rgba(255, 255, 255, 0.82) 0 0.7px, transparent 1.5px),
+    radial-gradient(circle at 31% 58%, rgba(255, 255, 255, 0.7) 0 0.9px, transparent 1.8px);
+  background-size:
+    12px 12px,
+    10px 10px,
+    14px 14px,
+    16px 16px;
+  filter: contrast(2) brightness(1.15);
   transform: translateZ(0);
-  transition: opacity 140ms ease;
+  transition: opacity 100ms ease;
 }
 
 .screen-vignette {
@@ -137,26 +144,9 @@ a {
 }
 
 .tube.is-tuning .static-layer {
-  opacity: 0.82;
-  animation: white-noise 130ms steps(2, end) infinite;
-  background:
-    repeating-radial-gradient(circle at 12% 31%, #fff 0 1px, transparent 1px 3px),
-    repeating-radial-gradient(circle at 76% 18%, rgba(255, 255, 255, 0.9) 0 1px, transparent 1px 5px),
-    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.5) 0 1px, transparent 1px 4px),
-    repeating-linear-gradient(90deg, transparent 0 11px, rgba(255, 255, 255, 0.28) 12px 14px);
-}
-
-.tube.is-tuning::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: 4;
-  pointer-events: none;
-  background:
-    linear-gradient(180deg, transparent 0 42%, rgba(255, 255, 255, 0.85) 43% 45%, transparent 46%),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.18), transparent 18%, rgba(255, 255, 255, 0.14) 72%, transparent);
+  opacity: 0.9;
+  animation: white-noise 85ms steps(4, end) infinite;
   mix-blend-mode: screen;
-  animation: tuning-roll 780ms linear infinite;
 }
 
 .video-poster {
@@ -365,35 +355,49 @@ a {
   0% {
     background-position:
       0 0,
-      2px 8px,
-      0 0,
-      0 0;
+      3px -2px,
+      -2px 4px,
+      5px 0;
   }
 
-  50% {
+  20% {
     background-position:
-      23px 17px,
-      -19px 11px,
-      0 14px,
-      31px 0;
+      -8px 11px,
+      12px -6px,
+      6px 12px,
+      -11px 9px;
+  }
+
+  40% {
+    background-position:
+      10px -7px,
+      -15px 14px,
+      -9px 3px,
+      13px -5px;
+  }
+
+  60% {
+    background-position:
+      -16px -12px,
+      5px 17px,
+      14px -9px,
+      -4px -14px;
+  }
+
+  80% {
+    background-position:
+      7px 15px,
+      -11px -10px,
+      -5px 9px,
+      16px 7px;
   }
 
   100% {
     background-position:
-      -11px 31px,
-      14px -23px,
-      0 -18px,
-      -27px 0;
-  }
-}
-
-@keyframes tuning-roll {
-  from {
-    transform: translateY(-45%);
-  }
-
-  to {
-    transform: translateY(45%);
+      -14px 6px,
+      9px -16px,
+      11px 13px,
+      -9px -8px;
   }
 }
 
