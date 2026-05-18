@@ -1434,7 +1434,12 @@
     "year": 1995,
     "channel": "ТВ",
     "category": "comedy",
-    "tags": ["пародия", "Момент истины", "ТВ-юмор", "90-е"],
+    "tags": [
+      "пародия",
+      "Момент истины",
+      "ТВ-юмор",
+      "90-е"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1448,7 +1453,12 @@
     "year": 1995,
     "channel": "НТВ",
     "category": "documentary",
-    "tags": ["НТВ", "Владислав Листьев", "архив", "память"],
+    "tags": [
+      "НТВ",
+      "Владислав Листьев",
+      "архив",
+      "память"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1462,7 +1472,12 @@
     "year": 1998,
     "channel": "MTV Россия",
     "category": "music",
-    "tags": ["MTV Россия", "Weekend Каприз", "музыкальный эфир", "90-е"],
+    "tags": [
+      "MTV Россия",
+      "Weekend Каприз",
+      "музыкальный эфир",
+      "90-е"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1476,7 +1491,12 @@
     "year": 1994,
     "channel": "РТР",
     "category": "talk",
-    "tags": ["РТР", "Сергей Доренко", "Алла Пугачева", "интервью"],
+    "tags": [
+      "РТР",
+      "Сергей Доренко",
+      "Алла Пугачева",
+      "интервью"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1490,7 +1510,12 @@
     "year": 1995,
     "channel": "ТВ",
     "category": "music",
-    "tags": ["Владимир Шаинский", "эстрада", "90-е", "концерт"],
+    "tags": [
+      "Владимир Шаинский",
+      "эстрада",
+      "90-е",
+      "концерт"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1505,7 +1530,12 @@
     "airDate": "1990-01-01",
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["Программа А", "ЦТ", "музыкальные клипы", "рок"],
+    "tags": [
+      "Программа А",
+      "ЦТ",
+      "музыкальные клипы",
+      "рок"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1519,7 +1549,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["Программа А", "ЦТ", "рок", "музыкальная хроника"],
+    "tags": [
+      "Программа А",
+      "ЦТ",
+      "рок",
+      "музыкальная хроника"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1533,7 +1568,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "documentary",
-    "tags": ["Программа А", "Британский рок", "музыка", "документальный"],
+    "tags": [
+      "Программа А",
+      "Британский рок",
+      "музыка",
+      "документальный"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1547,7 +1587,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["Программа А", "канал Время", "рок", "фестиваль"],
+    "tags": [
+      "Программа А",
+      "канал Время",
+      "рок",
+      "фестиваль"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1561,7 +1606,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["Программа А", "Петр Мамонов", "Звуки Му", "авангард"],
+    "tags": [
+      "Программа А",
+      "Петр Мамонов",
+      "Звуки Му",
+      "авангард"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1576,7 +1626,12 @@
     "airDate": "1997-04-21",
     "channel": "ТВ-6",
     "category": "regional",
-    "tags": ["ТВ-6", "Екатеринбург", "АСВ", "Диск-канал"],
+    "tags": [
+      "ТВ-6",
+      "Екатеринбург",
+      "АСВ",
+      "Диск-канал"
+    ],
     "curatorNote": "Найдено в YouTube-поиске через источники ekb tv rec; доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1590,7 +1645,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Хит-парад Горбушки", "реклама", "анонсы"],
+    "tags": [
+      "ТВ-6",
+      "Хит-парад Горбушки",
+      "реклама",
+      "анонсы"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1604,7 +1664,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Диск-канал", "музыка", "эфир"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "музыка",
+      "эфир"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1619,7 +1684,12 @@
     "airDate": "1997-09-07",
     "channel": "ТВ-6",
     "category": "idents",
-    "tags": ["ТВ-6", "анонсы", "эфир", "1997"],
+    "tags": [
+      "ТВ-6",
+      "анонсы",
+      "эфир",
+      "1997"
+    ],
     "curatorNote": "Найдено в YouTube-поиске, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1634,7 +1704,12 @@
     "airDate": "1997-04-13",
     "channel": "ТВ-6",
     "category": "idents",
-    "tags": ["ТВ-6", "Диск-канал", "промо", "Екатеринбург"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "промо",
+      "Екатеринбург"
+    ],
     "curatorNote": "Найдено в YouTube-поиске через региональный источник; доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1648,7 +1723,12 @@
     "year": 1996,
     "channel": "НТВ",
     "category": "news",
-    "tags": ["НТВ", "Ельцин", "выборы-96", "политика"],
+    "tags": [
+      "НТВ",
+      "Ельцин",
+      "выборы-96",
+      "политика"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1662,7 +1742,12 @@
     "year": 2002,
     "channel": "НТВ",
     "category": "comedy",
-    "tags": ["НТВ", "Куклы", "сатира", "Twin Peaks"],
+    "tags": [
+      "НТВ",
+      "Куклы",
+      "сатира",
+      "Twin Peaks"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1676,7 +1761,12 @@
     "year": 2002,
     "channel": "НТВ",
     "category": "sports",
-    "tags": ["футбол", "Лига чемпионов", "Спартак", "Черчесов"],
+    "tags": [
+      "футбол",
+      "Лига чемпионов",
+      "Спартак",
+      "Черчесов"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1690,7 +1780,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "music",
-    "tags": ["РТР", "Шаболовка", "концерт", "музыка"],
+    "tags": [
+      "РТР",
+      "Шаболовка",
+      "концерт",
+      "музыка"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1704,7 +1799,12 @@
     "year": 2005,
     "channel": "НТВ",
     "category": "news",
-    "tags": ["НТВ", "Госдума", "Жириновский", "политика"],
+    "tags": [
+      "НТВ",
+      "Госдума",
+      "Жириновский",
+      "политика"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1718,7 +1818,12 @@
     "year": 1998,
     "channel": "ТВ",
     "category": "ads",
-    "tags": ["социальная реклама", "АнтиСПИД", "90-е", "ТВ-реклама"],
+    "tags": [
+      "социальная реклама",
+      "АнтиСПИД",
+      "90-е",
+      "ТВ-реклама"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1732,7 +1837,12 @@
     "year": 1999,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Агата Кристи", "музыкальное ТВ", "1999"],
+    "tags": [
+      "ТВ-6",
+      "Агата Кристи",
+      "музыкальное ТВ",
+      "1999"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена через oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1747,7 +1857,12 @@
     "airDate": "1996-07-03",
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "выборы-96", "политреклама", "эфирная графика"],
+    "tags": [
+      "ОРТ",
+      "выборы-96",
+      "политреклама",
+      "эфирная графика"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1761,7 +1876,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Сказки новой России", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Сказки новой России",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1775,7 +1895,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Время", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Время",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1789,7 +1914,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Время", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Время",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1803,7 +1933,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Время", "ведущие", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Время",
+      "ведущие",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1817,7 +1952,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Сказки новой России", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Сказки новой России",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1831,7 +1971,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "Сказки новой России", "политический эфир", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "Сказки новой России",
+      "политический эфир",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1845,7 +1990,12 @@
     "year": 1996,
     "channel": "РТР",
     "category": "idents",
-    "tags": ["РТР", "Петербург", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "РТР",
+      "Петербург",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1859,7 +2009,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "idents",
-    "tags": ["ОРТ", "анонсы", "эфирная графика", "Игорь Барбэ"],
+    "tags": [
+      "ОРТ",
+      "анонсы",
+      "эфирная графика",
+      "Игорь Барбэ"
+    ],
     "curatorNote": "Найдено в Орбите-4 (блок Игоря Барбэ), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1873,7 +2028,12 @@
     "year": 1993,
     "channel": "ТВ",
     "category": "sports",
-    "tags": ["футбол", "женский футбол", "Кубок России", "1993"],
+    "tags": [
+      "футбол",
+      "женский футбол",
+      "Кубок России",
+      "1993"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1887,7 +2047,12 @@
     "year": 1998,
     "channel": "ТВ-6",
     "category": "sports",
-    "tags": ["футбол", "Лига чемпионов", "Спартак", "Реал"],
+    "tags": [
+      "футбол",
+      "Лига чемпионов",
+      "Спартак",
+      "Реал"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1901,7 +2066,12 @@
     "year": 1998,
     "channel": "НТВ",
     "category": "sports",
-    "tags": ["НТВ", "Савик Шустер", "Ювентус", "футбол"],
+    "tags": [
+      "НТВ",
+      "Савик Шустер",
+      "Ювентус",
+      "футбол"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1915,7 +2085,12 @@
     "year": 2000,
     "channel": "ТНТ",
     "category": "sports",
-    "tags": ["ТНТ", "Георгий Черданцев", "футбол", "обзоры"],
+    "tags": [
+      "ТНТ",
+      "Георгий Черданцев",
+      "футбол",
+      "обзоры"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1929,7 +2104,12 @@
     "year": 2002,
     "channel": "ТВ-6",
     "category": "sports",
-    "tags": ["футбол", "Спартак", "Сатурн", "Романцев"],
+    "tags": [
+      "футбол",
+      "Спартак",
+      "Сатурн",
+      "Романцев"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1943,7 +2123,12 @@
     "year": 1998,
     "channel": "ТВ-6",
     "category": "sports",
-    "tags": ["ТВ-6", "Локомотив", "АЕК", "футбол"],
+    "tags": [
+      "ТВ-6",
+      "Локомотив",
+      "АЕК",
+      "футбол"
+    ],
     "curatorNote": "Найдено в Орбите-4 (футбольный блок), доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1958,7 +2143,12 @@
     "airDate": "1991-11-07",
     "channel": "РТР",
     "category": "news",
-    "tags": ["РТР", "Вести", "новости", "1991"],
+    "tags": [
+      "РТР",
+      "Вести",
+      "новости",
+      "1991"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1972,7 +2162,12 @@
     "year": 1994,
     "channel": "РТР",
     "category": "idents",
-    "tags": ["РТР", "анонсы", "Ельцин", "эфир"],
+    "tags": [
+      "РТР",
+      "анонсы",
+      "Ельцин",
+      "эфир"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -1986,7 +2181,12 @@
     "year": 1988,
     "channel": "ЦТ",
     "category": "kids",
-    "tags": ["Спокойной ночи малыши", "Маппет-шоу", "телемост", "1988"],
+    "tags": [
+      "Спокойной ночи малыши",
+      "Маппет-шоу",
+      "телемост",
+      "1988"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2000,7 +2200,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "talk",
-    "tags": ["ОРТ", "Подъем", "Наталия Медведева", "утренний эфир"],
+    "tags": [
+      "ОРТ",
+      "Подъем",
+      "Наталия Медведева",
+      "утренний эфир"
+    ],
     "curatorNote": "Найдено в Орбите-4, доступность подтверждена oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2014,7 +2219,12 @@
     "year": 1995,
     "channel": "РТР",
     "category": "culture",
-    "tags": ["Адамово яблоко", "культура", "РТР", "девяностые"],
+    "tags": [
+      "Адамово яблоко",
+      "культура",
+      "РТР",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2028,7 +2238,12 @@
     "year": 1998,
     "channel": "ТВ-6",
     "category": "culture",
-    "tags": ["ТВ-6", "медиа", "дикторы", "архив"],
+    "tags": [
+      "ТВ-6",
+      "медиа",
+      "дикторы",
+      "архив"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2042,7 +2257,12 @@
     "year": 1992,
     "channel": "Останкино",
     "category": "idents",
-    "tags": ["Останкино", "СНГ", "праздничный эфир", "девяностые"],
+    "tags": [
+      "Останкино",
+      "СНГ",
+      "праздничный эфир",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2056,7 +2276,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "culture",
-    "tags": ["РТР", "Адамово яблоко", "культурная программа", "девяностые"],
+    "tags": [
+      "РТР",
+      "Адамово яблоко",
+      "культурная программа",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2070,7 +2295,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "culture",
-    "tags": ["Иосиф Бродский", "литература", "поэзия", "ТВ-архив"],
+    "tags": [
+      "Иосиф Бродский",
+      "литература",
+      "поэзия",
+      "ТВ-архив"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2084,7 +2314,12 @@
     "year": 1996,
     "channel": "ОРТ",
     "category": "kids",
-    "tags": ["до 16 и старше", "молодежное ТВ", "ОРТ", "Чердак"],
+    "tags": [
+      "до 16 и старше",
+      "молодежное ТВ",
+      "ОРТ",
+      "Чердак"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2098,7 +2333,12 @@
     "year": 1988,
     "channel": "ЦТ",
     "category": "doc",
-    "tags": ["Дугин", "Джемаль", "перестройка", "документальное"],
+    "tags": [
+      "Дугин",
+      "Джемаль",
+      "перестройка",
+      "документальное"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2112,7 +2352,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "culture",
-    "tags": ["андеграунд", "эксперимент", "ТВ-архив", "девяностые"],
+    "tags": [
+      "андеграунд",
+      "эксперимент",
+      "ТВ-архив",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2126,7 +2371,12 @@
     "year": 1996,
     "channel": "НТВ",
     "category": "music",
-    "tags": ["БГ", "Дибров", "музыка", "контркультура"],
+    "tags": [
+      "БГ",
+      "Дибров",
+      "музыка",
+      "контркультура"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2140,7 +2390,12 @@
     "year": 1995,
     "channel": "ТВ-6",
     "category": "talk",
-    "tags": ["ТВ-6", "Я сама", "ток-шоу", "Юлия Меньшова"],
+    "tags": [
+      "ТВ-6",
+      "Я сама",
+      "ток-шоу",
+      "Юлия Меньшова"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2154,7 +2409,12 @@
     "year": 1991,
     "channel": "РТР",
     "category": "news",
-    "tags": ["Ельцин", "политика", "новости", "девяностые"],
+    "tags": [
+      "Ельцин",
+      "политика",
+      "новости",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2168,7 +2428,12 @@
     "year": 1997,
     "channel": "РТР",
     "category": "talk",
-    "tags": ["Моя семья", "Эдуард Лимонов", "ток-шоу", "девяностые"],
+    "tags": [
+      "Моя семья",
+      "Эдуард Лимонов",
+      "ток-шоу",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2182,7 +2447,12 @@
     "year": 1997,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "Диск-канал", "Einstürzende Neubauten", "контркультура"],
+    "tags": [
+      "ТВ-6",
+      "Диск-канал",
+      "Einstürzende Neubauten",
+      "контркультура"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2196,7 +2466,12 @@
     "year": 2001,
     "channel": "ТВ-6",
     "category": "culture",
-    "tags": ["Культиватор", "арт-ТВ", "контркультура", "нулевые"],
+    "tags": [
+      "Культиватор",
+      "арт-ТВ",
+      "контркультура",
+      "нулевые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2210,7 +2485,12 @@
     "year": 1992,
     "channel": "Останкино",
     "category": "talk",
-    "tags": ["Лимонов", "Останкино", "интервью", "девяностые"],
+    "tags": [
+      "Лимонов",
+      "Останкино",
+      "интервью",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2224,7 +2504,12 @@
     "year": 1996,
     "channel": "НТВ",
     "category": "doc",
-    "tags": ["НТВ", "Профессия репортер", "мистика", "девяностые"],
+    "tags": [
+      "НТВ",
+      "Профессия репортер",
+      "мистика",
+      "девяностые"
+    ],
     "curatorNote": "Подборка из Орбиты-4, подтверждено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2238,7 +2523,12 @@
     "year": 1992,
     "channel": "ТВ-архив",
     "category": "music",
-    "tags": ["Ноль", "русский рок", "клип", "девяностые"],
+    "tags": [
+      "Ноль",
+      "русский рок",
+      "клип",
+      "девяностые"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2252,7 +2542,12 @@
     "year": 1990,
     "channel": "ЦТ",
     "category": "idents",
-    "tags": ["эфирный фрагмент", "ЦТ", "архив", "девяностые"],
+    "tags": [
+      "эфирный фрагмент",
+      "ЦТ",
+      "архив",
+      "девяностые"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2266,7 +2561,12 @@
     "year": 1994,
     "channel": "ОРТ",
     "category": "music",
-    "tags": ["эстрада", "живое выступление", "ОРТ", "девяностые"],
+    "tags": [
+      "эстрада",
+      "живое выступление",
+      "ОРТ",
+      "девяностые"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2280,7 +2580,12 @@
     "year": 1995,
     "channel": "РТР",
     "category": "music",
-    "tags": ["праздничный эфир", "РТР", "музыка", "девяностые"],
+    "tags": [
+      "праздничный эфир",
+      "РТР",
+      "музыка",
+      "девяностые"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2294,7 +2599,12 @@
     "year": 2007,
     "channel": "Россия",
     "category": "culture",
-    "tags": ["100 к одному", "Дмитрий Пригов", "Осмоловский", "арт-сцена"],
+    "tags": [
+      "100 к одному",
+      "Дмитрий Пригов",
+      "Осмоловский",
+      "арт-сцена"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2308,7 +2618,12 @@
     "year": 1999,
     "channel": "РТР",
     "category": "culture",
-    "tags": ["Спиваков", "Миронов", "концерт", "телефрагмент"],
+    "tags": [
+      "Спиваков",
+      "Миронов",
+      "концерт",
+      "телефрагмент"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2322,7 +2637,12 @@
     "year": 1988,
     "channel": "ЦТ",
     "category": "music",
-    "tags": ["Игорь Николаев", "эстрада", "ЦТ", "концерт"],
+    "tags": [
+      "Игорь Николаев",
+      "эстрада",
+      "ЦТ",
+      "концерт"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2336,7 +2656,12 @@
     "year": 1991,
     "channel": "РТР",
     "category": "sports",
-    "tags": ["скейтбординг", "Саратов", "субкультуры", "девяностые"],
+    "tags": [
+      "скейтбординг",
+      "Саратов",
+      "субкультуры",
+      "девяностые"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
     "rightsRisk": "high",
     "status": "candidate"
@@ -2350,8 +2675,1913 @@
     "year": 1996,
     "channel": "ТВ-6",
     "category": "music",
-    "tags": ["ТВ-6", "клип", "девяностые", "архив"],
+    "tags": [
+      "ТВ-6",
+      "клип",
+      "девяностые",
+      "архив"
+    ],
     "curatorNote": "Пост Орбиты-4, видео проверено через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-fjyftzcf0d0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "fjYfTZcF0d0",
+    "title": "Взгляд 1996 (12.01.1996)",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-3-p1c7xdkh4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "3-p1c7XDKH4",
+    "title": "Зов джунглей (ОРТ, 1998)",
+    "year": 1998,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1998",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-szlfsdatzqy",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "SZlfsdaTZqY",
+    "title": "Программа \"С утра пораньше\" (+ \"Денвер - последний динозавр\"). 1993 год.",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "kids",
+    "tags": [
+      "ТВ-архив",
+      "kids",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-o5wnx36ho_c",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "O5wNX36ho_c",
+    "title": "«Каламбур» #27 (ОРТ, премьера 1997)",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "comedy",
+    "tags": [
+      "ТВ-архив",
+      "comedy",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-pqqpti5ejwc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "pqqpTi5eJWc",
+    "title": "Зов джунглей 1994 год",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gbvaa8uifb8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "GBvaA8uiFb8",
+    "title": "Стопудовый хит 1998",
+    "year": 1998,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1998",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-kd1d3gmqhdq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "KD1D3GmqHDQ",
+    "title": "Хит парад Останкино 1992 года.",
+    "year": 1992,
+    "channel": "ОРТ",
+    "category": "news",
+    "tags": [
+      "ОРТ",
+      "news",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-eg4fbw81x98",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "eg4FbW81X98",
+    "title": "Угадай мелодию 1999 (19.05.1999)",
+    "year": 1999,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1999",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gwxadc78xyy",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "GwxAdc78xyY",
+    "title": "Взгляд 1993 (12.06.1993)",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-lzl8tg_phlg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "lZl8Tg_pHLg",
+    "title": "Взгляд 1994 (25.11.1994)",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gkrtdwab6fk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "gkRtDwaB6fk",
+    "title": "Один на один 1997 (08.06.1997)",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "talk",
+    "tags": [
+      "ТВ-архив",
+      "talk",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-pdypqge1pxk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "PDypqGE1pXk",
+    "title": "Красный квадрат 1992 (28.11.1992)",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-p5zmcaguqny",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "p5zmcaguqnY",
+    "title": "Красный квадрат 1993 (16.03.1993)",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-3v4dse7bxg8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "3V4dsE7BXg8",
+    "title": "Телескоп 1995 (31.12.1995)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-do-a5ucmjyo",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "DO-a5UCMJyo",
+    "title": "Звездный час 1993 (16.08.1993)",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-elvurwzagra",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "elVurWzAGrA",
+    "title": "Звездный час 1997 (19.08.1997)",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-vv63bntmnl4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "vv63bNtmnl4",
+    "title": "Час Пик (1996) 11.09.1996",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ivctyjepkjq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "iVCtYJepkJQ",
+    "title": "ЛЮБОВЬ С ПЕРВОГО ВЗГЛЯДА 1991 год. Премьера! ДЕНЬ 2",
+    "year": 1991,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1991",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-7tlrwo8qoay",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "7TlRWO8qOAY",
+    "title": "Новогодняя Реклама ОРТ 1999",
+    "year": 1999,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1999",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-savqvk0iq14",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "sAVqvK0IQ14",
+    "title": "Рекламный блок декабрь 1995-96 (реклама 90х)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-uf_uvy9paoa",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "uF_uvy9PAOA",
+    "title": "реклама 90-х.  ностальгия. жарнама 90-х. advertising of the 90s. nostalgia",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-1-oxv9gldtg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "1-oXv9gLdtg",
+    "title": "Музобоз 1996",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-v8_emc1ldts",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "V8_eMC1LdTs",
+    "title": "Старая реклама 1993 1994 1 канал Останкино",
+    "year": 1993,
+    "channel": "ОРТ",
+    "category": "ads",
+    "tags": [
+      "ОРТ",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-b1hpvpeulz4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "B1HpvPeUlZ4",
+    "title": "Роман Трахтенберг   Анекдоты",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "comedy",
+    "tags": [
+      "ТВ-архив",
+      "comedy",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-kagln0ksluy",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "kAGLn0KsLuY",
+    "title": "Новый 1998 год на ОРТ. Часть 1",
+    "year": 1998,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1998",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-n696iq5dzxm",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "N696Iq5DzxM",
+    "title": "Ельцин и водка",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-2aj-twqqzlm",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "2aJ-TWqqZlM",
+    "title": "Смена Президентов состоялась, 31.12.99, Путин проверил \"Ядерный чемодан\" Ельцин покидает Кремль",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-q-wonsayjhe",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "Q-WonSaYJHE",
+    "title": "\"Армия предотвратила гражданскую войну в России“ сказал Министр обороны П. Грачев, 5.10.1993",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-cyeahh0tddk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "CyeahH0Tddk",
+    "title": "Москва. 1992 год. В  кадре Петровка,  Кузнецкий мост, Кутузовский, Новый Арбат, жизнь и люди города",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-id1mnff_ggg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "ID1MNfF_gGg",
+    "title": "Угадай мелодию (1995) 11.10.1995",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-_u7k3uo4jeg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "_u7k3uO4jEg",
+    "title": "\"До 16-ти и старше\" - эфир: 1июля 1997",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "kids",
+    "tags": [
+      "ТВ-архив",
+      "kids",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-xq3ev4w3a7o",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "xq3EV4W3a7o",
+    "title": "Музобоз ОРТ, 1995",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-dx2_i9rga4e",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "dX2_i9rgA4E",
+    "title": "Ностальгия по детству в 90-е. Телепередачи 90-х",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "kids",
+    "tags": [
+      "ТВ-архив",
+      "kids",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-x37_fqj3elk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "x37_Fqj3ELk",
+    "title": "Взгляд 1994 (23.09.1994)",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-fdv6uie7rtc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "fDv6uie7Rtc",
+    "title": "Красный квадрат 1993 (26.06.1993)",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-f7clufg-tty",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "f7CLUfg-TtY",
+    "title": "Один на один 1995 (26.10.1995)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "talk",
+    "tags": [
+      "ТВ-архив",
+      "talk",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-guomnn4ntvk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "GuomNn4Ntvk",
+    "title": "Как это было (1999) 03.10.1999",
+    "year": 1999,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1999",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ksbars7v4iu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "ksBaRS7v4iU",
+    "title": "Ищу тебя 1998 (14.03.1998)",
+    "year": 1998,
+    "channel": "ТВ-архив",
+    "category": "talk",
+    "tags": [
+      "ТВ-архив",
+      "talk",
+      "1998",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gi8vwrmxyya",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "gI8VWRmxYYA",
+    "title": "Час Пик (1995) 16.03.1995",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-kpi2vpfqqow",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "kpI2VpFQQOw",
+    "title": "Тема (1999) 09.02.1999",
+    "year": 1999,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1999",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-alu-03qtjvs",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "alu-03QTJvs",
+    "title": "Ходорковский в гостях у Влада Листьева. 1993 год. Программа \"ТЕМА\"",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-loohttyppsu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "lOoHTtyppSU",
+    "title": "Новости (ОРТ, 10.05.1996)",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-xlrg-lisj1y",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "XlrG-LisJ1Y",
+    "title": "Клуб путешественников (ОРТ, 1999) Свято-Николо-Шартомский монастырь,  Йемен",
+    "year": 1999,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1999",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-hjv8uyud3v0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "HjV8UYuD3v0",
+    "title": "Время. Эфир 04.07.1991",
+    "year": 1991,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1991",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-zfefb-gujke",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "zFeFB-GuJkE",
+    "title": "Что? Где? Когда? Летняя серия 1995 г., 1-я игра от 20.05.1995 (интеллектуальная игра)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-jfkvyklmj64",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "JFKvyKLMJ64",
+    "title": "Брэйн-ринг 1994г. (А.Друзь, А.Клейн и другие...)",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-smxh9tabf7y",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "sMXh9taBF7Y",
+    "title": "Поле Чудес с Листьевым.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-sn_j5nb_7qq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "SN_j5Nb_7qQ",
+    "title": "Дог шоу \"Я и моя собака\". 1995 год. Жюри В.Смирнитский, В.Малежик, С.Доренко.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-nwdg8ebzhk8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "NwdG8eBZhK8",
+    "title": "Я сама с Юлией Меньшовой - Я и мой муж после развода... (1995)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "talk",
+    "tags": [
+      "ТВ-архив",
+      "talk",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-pb4ensstgwc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "pB4eNsStGwc",
+    "title": "Красный квадрат 1992 (29.11.1992)",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-qybrmygmpoi",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "QYbRmYgMpoI",
+    "title": "Утренняя звезда концерт 1992",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-nomyfts9hpi",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "nOMYFTS9hPI",
+    "title": "Советская аэробика. Утренняя гимнастика. Зарядка с Ларисой Петрик (1989)",
+    "year": 1989,
+    "channel": "ЦТ",
+    "category": "other",
+    "tags": [
+      "ЦТ",
+      "other",
+      "1989",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-8y6q2d7s3z0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "8Y6Q2d7s3z0",
+    "title": "КВН Уральские пельмени - Первое выступление в вышке",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-5ewju_q_6aq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "5eWJu_Q_6aQ",
+    "title": "Высшая лига (1993) - Финал",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-xxhkaowy4au",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "XXHkAOWy4AU",
+    "title": "Генерал Лебедь 1997 год",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-i0wjf4bbvqg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "i0wjf4bBvQg",
+    "title": "Поздравление Б.Н. Ельцина и В.В. Путина с новым 2000 годом",
+    "year": 2000,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "2000",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-cose1zno6i8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "coSe1ZnO6i8",
+    "title": "Москва  год 1995. В целом не так уж плох был город..Можно еще увидеть  кое-что из снесенного",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-_wl-akx5hpk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "_wl-akx5HPk",
+    "title": "\"Окаянные 90-е\"  Наперсточники, бандиты, менты.. Хроника кошмара московских улиц. 1992",
+    "year": 1992,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1992",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-av3oyruzykq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "av3oyRUZYkQ",
+    "title": "Moscow, May 1993",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ofh7ykeueis",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "OfH7YKeuEIs",
+    "title": "Август 1991: танки в Москве, провал ГКЧП и начало конца СССР",
+    "year": 1991,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1991",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ha1uucr2dm0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "HA1uucR2DM0",
+    "title": "Шоу 50/50 1995",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-8h1vphm4ado",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "8H1vPHm4ADo",
+    "title": "Лужники. Рынок.1996 год",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ppicgxuc15o",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "PpicGxuC15o",
+    "title": "USSR; Street Market in Moscow 1990?",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1990",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-7ohas6xrdki",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "7ohaS6xrDKI",
+    "title": "Moscow 1990",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1990",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-m4gikbqqyrw",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "m4gIKbQQyRw",
+    "title": "Элен и ребята 68 серия",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-izv1wh3vvtq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "izv1Wh3vvTQ",
+    "title": "Денди Новая Реальность: телеканал ОРТ, 4 выпуск [7 июля 1995] !!! ПОЛНЫЙ ВЫПУСК !!!",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-2vnryxb64jy",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "2VNRYxB64jY",
+    "title": "Сравните! Без запретов, без цензуры, без толерантности. Реклама 80-90-х /Дух времени",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-fipjd4haqms",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "fipjD4HaQms",
+    "title": "Скандальная программа 'Солнечный город' о молодежи 90 х",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-skcijmncme0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "SKcIjMncME0",
+    "title": "Хопёр Инвест 1994 год, реклама",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-dxnp11uti2g",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "dxNP11uti2g",
+    "title": "Реклама МММ все 43 ролика. Леня Голубков.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-z_zdwiduoyu",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "z_zdWIDUOyU",
+    "title": "Грозный.02/1995.Басаев о переговорах в Слепцовске.Разведчики о штурме дворца.УНА УНСО Сашко Билый.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-lkt6hliuzsi",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "lKt6HliUZsI",
+    "title": "Ликвидация Дудаева. Жизнь и смерть мятежного генерала.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-vdfz-wid-d4",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "VdFZ-WiD-D4",
+    "title": "Футбольный Клуб 09.09.1994",
+    "year": 1994,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-xjaqp7d_wqa",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "xjaQp7d_wqA",
+    "title": "Реклама 1993-1994. ч.2",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ypcisigwhku",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "ypCIsiGwhkU",
+    "title": "Реклама 1993-1994. ч.5",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-isrp1pzqha8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "iSrP1PzQHa8",
+    "title": "Реклама 1993-1994. ч.4",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ugibppcvbg0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "uGIbpPcvbg0",
+    "title": "Реклама 1993-1994. ч.3",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-udzadpaehbk",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "uDZaDpAeHbk",
+    "title": "Реклама 1993-1994. ч.1",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-spzyzxnfpyc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "SpzyZxnFpYc",
+    "title": "Звёзды из \"ящика\". Девяностые (90-е) @centralnoetelevidenie",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-k9s4bcwuqto",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "k9S4bCWuQto",
+    "title": "Забавная реклама 90-х, Ностальгия ( Russian advertising 1990-1999 )",
+    "year": 1990,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1990",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-tnqqwziopvc",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "tnQQwZIOPvc",
+    "title": "Реклама 90-х. НОСТАЛЬГИЯ. Назад в 90-е. ЧАСТЬ 2.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-huqbu7usb-e",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "HuqbU7USB-E",
+    "title": "Сюжет о лесбиянстве в женской колонии \"Ковырялки\" (1995)",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-p7jkhiou7fg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "p7Jkhiou7Fg",
+    "title": "\"Всем классом - на село!\" Время. Эфир 12 июня 1979",
+    "year": 1979,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1979",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-pxjbzg4tfqs",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "pXjBZG4TFqs",
+    "title": "Самодуры и реформаторы. Неординарные фигуры 90-х | Аяцков, Аушев, Немцов, Наздратенко",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-vjqmwgfa4p8",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "VJqMWgFA4P8",
+    "title": "Человек - Амфибия.",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-ib7ac-ghqgy",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "iB7ac-GhqGY",
+    "title": "Один день с Юрием Шатуновым, 1995 г",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-kg2p3zhqmrg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "kG2p3zhqmRg",
+    "title": "БОРИС ЕЛЬЦИН ПЬЯНЫЙ ▶ ЛУЧШИЕ ПРИКОЛЫ - ПОДБОРКА ИЗ 90Х [HD] 2021 / BORIS YELTSIN FUNNY COMPILATION",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-a33fzsgojz0",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "A33FZsGOjZ0",
+    "title": "Рекламный блок на ОРТ. 1 апреля 1996 года",
+    "year": 1996,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1996",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-8rvcxoozmku",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "8RVCxooZmKU",
+    "title": "Рекламный блок на ОРТ. 23 декабря 1998 года. #1",
+    "year": 1998,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1998",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-pbymvfii8ls",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "pbyMvfiI8ls",
+    "title": "Рекламный блок (TV-6 Москва, 31.12.1994) (1)",
+    "year": 1994,
+    "channel": "ТВ-6",
+    "category": "ads",
+    "tags": [
+      "ТВ-6",
+      "ads",
+      "1994",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gynl1jbdesg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "gyNL1JbdESg",
+    "title": "Контрабанда (1974)",
+    "year": 1974,
+    "channel": "ТВ-архив",
+    "category": "documentary",
+    "tags": [
+      "ТВ-архив",
+      "documentary",
+      "1974",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-o9gxrs1ejea",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "o9GXRs1ejEA",
+    "title": "1995 декабрь. РТР Реклама",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "ads",
+    "tags": [
+      "ТВ-архив",
+      "ads",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-qklfhcqan8o",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "qklfhcQAN8o",
+    "title": "Время. Эфир 01.05.1982",
+    "year": 1982,
+    "channel": "ТВ-архив",
+    "category": "news",
+    "tags": [
+      "ТВ-архив",
+      "news",
+      "1982",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-oparq7uikeg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "Oparq7UiKEg",
+    "title": "L-club (1993 год)",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-azwgdf2xuaq",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "azWGdf2xuaQ",
+    "title": "L-Club я играл там",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "other",
+    "tags": [
+      "ТВ-архив",
+      "other",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-7st-0vxoboa",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "7sT-0VXOBoA",
+    "title": "\"L-клуб\": Леонид Ярмольник",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-hrqfcvgiv4i",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "hRqfCVgIV4I",
+    "title": "ЖенниШаден.рф. РТР, L-Club. DJ's радиостанции \"Европа плюс\"",
+    "year": 1995,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "ТВ-архив",
+      "music",
+      "1995",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-lycd-3qfsvs",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "lYcD-3QfsVs",
+    "title": "Звездный час 1997 (04.08.1997)",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "gameshow",
+    "tags": [
+      "ТВ-архив",
+      "gameshow",
+      "1997",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-gev4ihvfx3m",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "GeV4IhVFx3M",
+    "title": "Заставка ВИD перед L Club 1993 1997",
+    "year": 1993,
+    "channel": "ТВ-архив",
+    "category": "idents",
+    "tags": [
+      "ТВ-архив",
+      "idents",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
+    "rightsRisk": "high",
+    "status": "candidate"
+  },
+  {
+    "id": "pl6k1-c4lrfispjvg",
+    "source": "youtube",
+    "sourceUrl": "https://youtube.com/playlist?list=PL6K1IYuUqMxlEY7116TC_FMm1O-B7Luq5",
+    "youtubeVideoId": "C4LrFiSPjvg",
+    "title": "1993 ТВ-6 & MTV. Реклама и окончание ночного вещания",
+    "year": 1993,
+    "channel": "ТВ-6",
+    "category": "ads",
+    "tags": [
+      "ТВ-6",
+      "ads",
+      "1993",
+      "playlist-import"
+    ],
+    "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
     "rightsRisk": "high",
     "status": "candidate"
   }
