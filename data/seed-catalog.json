@@ -5420,5 +5420,24 @@
     "curatorNote": "Импортировано из пользовательского YouTube-плейлиста; год/категория определены автоматически по названию.",
     "rightsRisk": "high",
     "status": "candidate"
+  },
+  {
+    "id": "manual-alt-festival-moscow-1997",
+    "source": "youtube",
+    "sourceUrl": "https://youtu.be/YxzbPQAdHgk?si=8_Oo-F0qV3NF_AUW",
+    "youtubeVideoId": "YxzbPQAdHgk",
+    "title": "Фестиваль альтернативной музыки в Москве, 1997",
+    "year": 1997,
+    "channel": "ТВ-архив",
+    "category": "music",
+    "tags": [
+      "альтернативная музыка",
+      "фестиваль",
+      "Москва",
+      "1997"
+    ],
+    "curatorNote": "Добавлено вручную по запросу пользователя; доступность подтверждена через YouTube oEmbed.",
+    "rightsRisk": "high",
+    "status": "candidate"
   }
 ]
